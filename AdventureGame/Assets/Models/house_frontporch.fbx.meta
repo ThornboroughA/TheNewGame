@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 7fa1e67ad414b4d2bac4b72ca8a4f873
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bottom
+    100002: clapboardbase10
+    100004: clapboardbase11
+    100006: clapboardbase12
+    100008: clapboardbase5
+    100010: clapboardbase9
+    100012: door_screen
+    100014: door_screen 1
+    100016: door_screen_frame
+    100018: door_screen_frame 1
+    100020: glass1
+    100022: hinge1
+    100024: hinge1 1
+    100026: hinge2
+    100028: hinge2 1
+    100030: hinge3
+    100032: hinge3 1
+    100034: hinge4
+    100036: hinge4 1
+    100038: //RootNode
+    100040: lamp
+    100042: lamp 1
+    100044: pCube42
+    100046: pCube43
+    100048: pCube43 1
+    100050: pCylinder6
+    100052: pCylinder6 1
+    100054: pCylinder6 2
+    100056: pCylinder6 3
+    100058: pCylinder7
+    100060: pCylinder7 1
+    100062: pCylinder7 2
+    100064: pCylinder7 3
+    100066: pCylinder8
+    100068: pCylinder8 1
+    100070: pCylinder8 2
+    100072: pCylinder8 3
+    100074: polySurface3
+    100076: porch_frametop
+    100078: porchshelf
+    100080: screendoor
+    100082: screendoor1
+    100084: screenglass
+    100086: screenglass 1
+    100088: welcomemat
+    100090: window_planks
+    400000: bottom
+    400002: clapboardbase10
+    400004: clapboardbase11
+    400006: clapboardbase12
+    400008: clapboardbase5
+    400010: clapboardbase9
+    400012: door_screen
+    400014: door_screen 1
+    400016: door_screen_frame
+    400018: door_screen_frame 1
+    400020: glass1
+    400022: hinge1
+    400024: hinge1 1
+    400026: hinge2
+    400028: hinge2 1
+    400030: hinge3
+    400032: hinge3 1
+    400034: hinge4
+    400036: hinge4 1
+    400038: //RootNode
+    400040: lamp
+    400042: lamp 1
+    400044: pCube42
+    400046: pCube43
+    400048: pCube43 1
+    400050: pCylinder6
+    400052: pCylinder6 1
+    400054: pCylinder6 2
+    400056: pCylinder6 3
+    400058: pCylinder7
+    400060: pCylinder7 1
+    400062: pCylinder7 2
+    400064: pCylinder7 3
+    400066: pCylinder8
+    400068: pCylinder8 1
+    400070: pCylinder8 2
+    400072: pCylinder8 3
+    400074: polySurface3
+    400076: porch_frametop
+    400078: porchshelf
+    400080: screendoor
+    400082: screendoor1
+    400084: screenglass
+    400086: screenglass 1
+    400088: welcomemat
+    400090: window_planks
+    2100000: grey_stone
+    2100002: road_white
+    2100004: brown_furnishingwood
+    2100006: white_cream
+    2100008: glass
+    2100010: green_door
+    2100012: dark_metal
+    2300000: bottom
+    2300002: clapboardbase10
+    2300004: clapboardbase11
+    2300006: clapboardbase12
+    2300008: clapboardbase5
+    2300010: clapboardbase9
+    2300012: door_screen
+    2300014: door_screen 1
+    2300016: door_screen_frame
+    2300018: door_screen_frame 1
+    2300020: glass1
+    2300022: hinge1
+    2300024: hinge1 1
+    2300026: hinge2
+    2300028: hinge2 1
+    2300030: hinge3
+    2300032: hinge3 1
+    2300034: hinge4
+    2300036: hinge4 1
+    2300038: lamp 1
+    2300040: pCube42
+    2300042: pCube43
+    2300044: pCube43 1
+    2300046: pCylinder6
+    2300048: pCylinder6 1
+    2300050: pCylinder6 2
+    2300052: pCylinder6 3
+    2300054: pCylinder7
+    2300056: pCylinder7 1
+    2300058: pCylinder7 2
+    2300060: pCylinder7 3
+    2300062: pCylinder8
+    2300064: pCylinder8 1
+    2300066: pCylinder8 2
+    2300068: pCylinder8 3
+    2300070: polySurface3
+    2300072: porch_frametop
+    2300074: porchshelf
+    2300076: screenglass
+    2300078: screenglass 1
+    2300080: welcomemat
+    2300082: window_planks
+    3300000: bottom
+    3300002: clapboardbase10
+    3300004: clapboardbase11
+    3300006: clapboardbase12
+    3300008: clapboardbase5
+    3300010: clapboardbase9
+    3300012: door_screen
+    3300014: door_screen 1
+    3300016: door_screen_frame
+    3300018: door_screen_frame 1
+    3300020: glass1
+    3300022: hinge1
+    3300024: hinge1 1
+    3300026: hinge2
+    3300028: hinge2 1
+    3300030: hinge3
+    3300032: hinge3 1
+    3300034: hinge4
+    3300036: hinge4 1
+    3300038: lamp 1
+    3300040: pCube42
+    3300042: pCube43
+    3300044: pCube43 1
+    3300046: pCylinder6
+    3300048: pCylinder6 1
+    3300050: pCylinder6 2
+    3300052: pCylinder6 3
+    3300054: pCylinder7
+    3300056: pCylinder7 1
+    3300058: pCylinder7 2
+    3300060: pCylinder7 3
+    3300062: pCylinder8
+    3300064: pCylinder8 1
+    3300066: pCylinder8 2
+    3300068: pCylinder8 3
+    3300070: polySurface3
+    3300072: porch_frametop
+    3300074: porchshelf
+    3300076: screenglass
+    3300078: screenglass 1
+    3300080: welcomemat
+    3300082: window_planks
+    4300000: polySurface3
+    4300002: porch_frametop
+    4300004: clapboardbase9
+    4300006: clapboardbase10
+    4300008: window_planks
+    4300010: door_screen_frame
+    4300012: hinge1
+    4300014: pCylinder8
+    4300016: pCylinder6
+    4300018: hinge4
+    4300020: pCylinder8
+    4300022: pCylinder6
+    4300024: door_screen
+    4300026: screenglass
+    4300028: hinge3
+    4300030: pCylinder7
+    4300032: hinge2
+    4300034: pCylinder7
+    4300036: pCube43
+    4300038: door_screen_frame
+    4300040: hinge1
+    4300042: pCylinder8
+    4300044: pCylinder6
+    4300046: door_screen
+    4300048: screenglass
+    4300050: hinge3
+    4300052: pCylinder7
+    4300054: hinge2
+    4300056: pCylinder7
+    4300058: pCube43
+    4300060: hinge4
+    4300062: pCylinder8
+    4300064: pCylinder6
+    4300066: welcomemat
+    4300068: glass1
+    4300070: bottom
+    4300072: lamp
+    4300074: clapboardbase5
+    4300076: clapboardbase12
+    4300078: clapboardbase11
+    4300080: pCube42
+    4300082: porchshelf
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

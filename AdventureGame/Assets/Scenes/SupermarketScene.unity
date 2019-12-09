@@ -565,10 +565,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58966ccd551c048068e76b917ebdf21c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerObject: {fileID: 703553685}
-  x: -6
-  y: 20
-  z: 20
+  cameraObject1: {fileID: 703553685}
+  cameraObject2: {fileID: 0}
+  useTransition: 0
+  followCharacter: 0
+  cameraOffset: {x: -6, y: 20, z: 20}
 --- !u!1 &188981219 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100002, guid: dee68187efcea43e084f52daa27458fe,
@@ -1266,6 +1267,24 @@ Transform:
   m_Father: {fileID: 1708799783}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!1 &884497775 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1530463824861769835, guid: 1cd9de2230e1a4417858d212dcfa70f8,
+    type: 3}
+  m_PrefabInstance: {fileID: 1154881648}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &884497778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 884497775}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b2f7b0e294054b18a1356502fe074f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &891344176 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: dee68187efcea43e084f52daa27458fe,

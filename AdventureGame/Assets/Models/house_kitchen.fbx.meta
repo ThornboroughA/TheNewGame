@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 48e2c0198275e4428aace40604476364
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: basementdoor
+    100002: clapboardbase14
+    100004: clapboardbase15
+    100006: clapboardbase3
+    100008: clapboardbase6
+    100010: counter
+    100012: door_inside
+    100014: door_inside 1
+    100016: door_main
+    100018: door_main 1
+    100020: door_main_frame
+    100022: door_outside
+    100024: door_outside 1
+    100026: doorhandle
+    100028: doorhandle1
+    100030: doorknob_small
+    100032: doorknob_small 1
+    100034: doors_folding1
+    100036: doors_folding2
+    100038: drain
+    100040: foldingdoors
+    100042: foldingdoors 1
+    100044: frame
+    100046: frame 1
+    100048: hinge5
+    100050: hinge6
+    100052: hinge7
+    100054: hinge8
+    100056: hingedoor
+    100058: hingedoor 1
+    100060: hingedoor1
+    100062: hingedoor1 1
+    100064: hingedoor2
+    100066: hingedoor2 1
+    100068: hingedoor3
+    100070: hingedoor3 1
+    100072: hingeframe
+    100074: hingeframe 1
+    100076: hingeframe1
+    100078: hingeframe1 1
+    100080: hingeframe2
+    100082: hingeframe2 1
+    100084: hingeframe3
+    100086: hingeframe3 1
+    100088: //RootNode
+    100090: kitchen_frame
+    100092: pCube10
+    100094: pCube11
+    100096: pCube12
+    100098: pCube18
+    100100: pCube44
+    100102: pCube44 1
+    100104: pCube45
+    100106: pCube45 1
+    100108: pCube46
+    100110: pCube46 1
+    100112: pCylinder10
+    100114: pCylinder10 1
+    100116: pCylinder3
+    100118: pCylinder4
+    100120: pCylinder6
+    100122: pCylinder6 1
+    100124: pCylinder7
+    100126: pCylinder7 1
+    100128: pCylinder8
+    100130: pCylinder8 1
+    100132: pCylinder9
+    100134: pCylinder9 1
+    100136: pCylinder9 2
+    100138: pCylinder9 3
+    100140: pCylinder9 4
+    100142: pCylinder9 5
+    100144: placeholder_window1
+    100146: placeholder_window2
+    100148: placeholder_window3
+    100150: polySurface10
+    100152: polySurface12
+    100154: polySurface14
+    100156: polySurface2
+    100158: polySurface6
+    100160: polySurface7
+    100162: polySurface9
+    100164: screenglass1
+    100166: taps
+    100168: transform3
+    100170: transform4
+    100172: window_planks1
+    100174: windowframe
+    400000: basementdoor
+    400002: clapboardbase14
+    400004: clapboardbase15
+    400006: clapboardbase3
+    400008: clapboardbase6
+    400010: counter
+    400012: door_inside
+    400014: door_inside 1
+    400016: door_main
+    400018: door_main 1
+    400020: door_main_frame
+    400022: door_outside
+    400024: door_outside 1
+    400026: doorhandle
+    400028: doorhandle1
+    400030: doorknob_small
+    400032: doorknob_small 1
+    400034: doors_folding1
+    400036: doors_folding2
+    400038: drain
+    400040: foldingdoors
+    400042: foldingdoors 1
+    400044: frame
+    400046: frame 1
+    400048: hinge5
+    400050: hinge6
+    400052: hinge7
+    400054: hinge8
+    400056: hingedoor
+    400058: hingedoor 1
+    400060: hingedoor1
+    400062: hingedoor1 1
+    400064: hingedoor2
+    400066: hingedoor2 1
+    400068: hingedoor3
+    400070: hingedoor3 1
+    400072: hingeframe
+    400074: hingeframe 1
+    400076: hingeframe1
+    400078: hingeframe1 1
+    400080: hingeframe2
+    400082: hingeframe2 1
+    400084: hingeframe3
+    400086: hingeframe3 1
+    400088: //RootNode
+    400090: kitchen_frame
+    400092: pCube10
+    400094: pCube11
+    400096: pCube12
+    400098: pCube18
+    400100: pCube44
+    400102: pCube44 1
+    400104: pCube45
+    400106: pCube45 1
+    400108: pCube46
+    400110: pCube46 1
+    400112: pCylinder10
+    400114: pCylinder10 1
+    400116: pCylinder3
+    400118: pCylinder4
+    400120: pCylinder6
+    400122: pCylinder6 1
+    400124: pCylinder7
+    400126: pCylinder7 1
+    400128: pCylinder8
+    400130: pCylinder8 1
+    400132: pCylinder9
+    400134: pCylinder9 1
+    400136: pCylinder9 2
+    400138: pCylinder9 3
+    400140: pCylinder9 4
+    400142: pCylinder9 5
+    400144: placeholder_window1
+    400146: placeholder_window2
+    400148: placeholder_window3
+    400150: polySurface10
+    400152: polySurface12
+    400154: polySurface14
+    400156: polySurface2
+    400158: polySurface6
+    400160: polySurface7
+    400162: polySurface9
+    400164: screenglass1
+    400166: taps
+    400168: transform3
+    400170: transform4
+    400172: window_planks1
+    400174: windowframe
+    2100000: grey_stone
+    2100002: brown_furnishingwood
+    2100004: white_cream
+    2100006: white_walls
+    2100008: road_white
+    2100010: green_door
+    2100012: glass
+    2100014: grey_sidewalk
+    2100016: blue_kitchen
+    2100018: metal_generic
+    2100020: lambert1
+    2100022: dark_metal
+    2300000: clapboardbase14
+    2300002: clapboardbase15
+    2300004: clapboardbase6
+    2300006: counter
+    2300008: door_inside
+    2300010: door_inside 1
+    2300012: door_main 1
+    2300014: door_main_frame
+    2300016: door_outside
+    2300018: door_outside 1
+    2300020: doorhandle
+    2300022: doorhandle1
+    2300024: doorknob_small
+    2300026: doorknob_small 1
+    2300028: drain
+    2300030: frame
+    2300032: frame 1
+    2300034: hinge5
+    2300036: hinge6
+    2300038: hinge7
+    2300040: hinge8
+    2300042: hingedoor
+    2300044: hingedoor 1
+    2300046: hingedoor1
+    2300048: hingedoor1 1
+    2300050: hingedoor2
+    2300052: hingedoor2 1
+    2300054: hingedoor3
+    2300056: hingedoor3 1
+    2300058: hingeframe
+    2300060: hingeframe 1
+    2300062: hingeframe1
+    2300064: hingeframe1 1
+    2300066: hingeframe2
+    2300068: hingeframe2 1
+    2300070: hingeframe3
+    2300072: hingeframe3 1
+    2300074: kitchen_frame
+    2300076: pCube10
+    2300078: pCube11
+    2300080: pCube12
+    2300082: pCube18
+    2300084: pCube44
+    2300086: pCube44 1
+    2300088: pCube45
+    2300090: pCube45 1
+    2300092: pCube46
+    2300094: pCube46 1
+    2300096: pCylinder10
+    2300098: pCylinder10 1
+    2300100: pCylinder3
+    2300102: pCylinder4
+    2300104: pCylinder6
+    2300106: pCylinder6 1
+    2300108: pCylinder7
+    2300110: pCylinder7 1
+    2300112: pCylinder8
+    2300114: pCylinder8 1
+    2300116: pCylinder9
+    2300118: pCylinder9 1
+    2300120: pCylinder9 2
+    2300122: pCylinder9 3
+    2300124: pCylinder9 4
+    2300126: pCylinder9 5
+    2300128: placeholder_window1
+    2300130: placeholder_window2
+    2300132: placeholder_window3
+    2300134: polySurface10
+    2300136: polySurface12
+    2300138: polySurface14
+    2300140: polySurface2
+    2300142: polySurface6
+    2300144: polySurface7
+    2300146: polySurface9
+    2300148: screenglass1
+    2300150: taps
+    2300152: windowframe
+    3300000: clapboardbase14
+    3300002: clapboardbase15
+    3300004: clapboardbase6
+    3300006: counter
+    3300008: door_inside
+    3300010: door_inside 1
+    3300012: door_main 1
+    3300014: door_main_frame
+    3300016: door_outside
+    3300018: door_outside 1
+    3300020: doorhandle
+    3300022: doorhandle1
+    3300024: doorknob_small
+    3300026: doorknob_small 1
+    3300028: drain
+    3300030: frame
+    3300032: frame 1
+    3300034: hinge5
+    3300036: hinge6
+    3300038: hinge7
+    3300040: hinge8
+    3300042: hingedoor
+    3300044: hingedoor 1
+    3300046: hingedoor1
+    3300048: hingedoor1 1
+    3300050: hingedoor2
+    3300052: hingedoor2 1
+    3300054: hingedoor3
+    3300056: hingedoor3 1
+    3300058: hingeframe
+    3300060: hingeframe 1
+    3300062: hingeframe1
+    3300064: hingeframe1 1
+    3300066: hingeframe2
+    3300068: hingeframe2 1
+    3300070: hingeframe3
+    3300072: hingeframe3 1
+    3300074: kitchen_frame
+    3300076: pCube10
+    3300078: pCube11
+    3300080: pCube12
+    3300082: pCube18
+    3300084: pCube44
+    3300086: pCube44 1
+    3300088: pCube45
+    3300090: pCube45 1
+    3300092: pCube46
+    3300094: pCube46 1
+    3300096: pCylinder10
+    3300098: pCylinder10 1
+    3300100: pCylinder3
+    3300102: pCylinder4
+    3300104: pCylinder6
+    3300106: pCylinder6 1
+    3300108: pCylinder7
+    3300110: pCylinder7 1
+    3300112: pCylinder8
+    3300114: pCylinder8 1
+    3300116: pCylinder9
+    3300118: pCylinder9 1
+    3300120: pCylinder9 2
+    3300122: pCylinder9 3
+    3300124: pCylinder9 4
+    3300126: pCylinder9 5
+    3300128: placeholder_window1
+    3300130: placeholder_window2
+    3300132: placeholder_window3
+    3300134: polySurface10
+    3300136: polySurface12
+    3300138: polySurface14
+    3300140: polySurface2
+    3300142: polySurface6
+    3300144: polySurface7
+    3300146: polySurface9
+    3300148: screenglass1
+    3300150: taps
+    3300152: windowframe
+    4300000: kitchen_frame
+    4300002: clapboardbase6
+    4300004: clapboardbase15
+    4300006: clapboardbase14
+    4300008: windowframe
+    4300010: polySurface6
+    4300012: polySurface7
+    4300014: polySurface9
+    4300016: polySurface10
+    4300018: polySurface12
+    4300020: polySurface14
+    4300022: placeholder_window3
+    4300024: placeholder_window2
+    4300026: placeholder_window1
+    4300028: pCube18
+    4300030: pCube10
+    4300032: pCube11
+    4300034: pCube12
+    4300036: counter
+    4300038: taps
+    4300040: pCylinder3
+    4300042: pCylinder4
+    4300044: polySurface2
+    4300046: drain
+    4300048: door_inside
+    4300050: doorknob_small
+    4300052: hingeframe3
+    4300054: pCylinder10
+    4300056: hingeframe2
+    4300058: pCylinder9
+    4300060: door_outside
+    4300062: hingedoor
+    4300064: pCylinder9
+    4300066: hingedoor1
+    4300068: pCylinder9
+    4300070: hingedoor3
+    4300072: hingedoor2
+    4300074: frame
+    4300076: hingeframe
+    4300078: hingeframe1
+    4300080: door_inside
+    4300082: doorknob_small
+    4300084: hingeframe3
+    4300086: pCylinder10
+    4300088: hingeframe2
+    4300090: pCylinder9
+    4300092: door_outside
+    4300094: hingedoor
+    4300096: pCylinder9
+    4300098: hingedoor1
+    4300100: pCylinder9
+    4300102: hingedoor3
+    4300104: hingedoor2
+    4300106: frame
+    4300108: hingeframe
+    4300110: hingeframe1
+    4300112: door_main
+    4300114: screenglass1
+    4300116: hinge5
+    4300118: pCylinder8
+    4300120: pCylinder6
+    4300122: hinge8
+    4300124: pCylinder8
+    4300126: pCylinder6
+    4300128: doorhandle
+    4300130: pCube44
+    4300132: pCube45
+    4300134: pCube46
+    4300136: doorhandle1
+    4300138: pCube44
+    4300140: pCube45
+    4300142: pCube46
+    4300144: door_main_frame
+    4300146: hinge6
+    4300148: pCylinder7
+    4300150: hinge7
+    4300152: pCylinder7
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

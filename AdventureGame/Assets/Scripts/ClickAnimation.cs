@@ -13,6 +13,8 @@ public class ClickAnimation : MonoBehaviour
 
 
 
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -22,7 +24,7 @@ public class ClickAnimation : MonoBehaviour
     private void OnMouseDown()
     {
         anim.SetBool("isClicked", true);
-        //Debug.Log("1. " + anim + "click collider triggered");
+        Debug.Log("1. " + anim + "click collider triggered");
 
         StartCoroutine(EffectItemCall());
     }
