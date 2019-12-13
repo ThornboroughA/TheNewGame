@@ -316,9 +316,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58966ccd551c048068e76b917ebdf21c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraObject: {fileID: 55050755}
-  transitionObject: {fileID: 827293237}
+  cameraObject1: {fileID: 55050755}
+  cameraObject2: {fileID: 827293237}
   useTransition: 1
+  followCharacter: 0
   cameraOffset: {x: 0, y: 8, z: -8}
 --- !u!1 &326537498
 GameObject:
@@ -722,8 +723,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b2f7b0e294054b18a1356502fe074f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
-  rotateSpeed: 80
+  houseCoziness: 0
+  speed: 6
 --- !u!4 &827293237 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1530463824862194763, guid: 1cd9de2230e1a4417858d212dcfa70f8,
