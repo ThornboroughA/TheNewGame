@@ -5,34 +5,55 @@ using UnityEngine;
 public class CozinessAdjust : MonoBehaviour
 {
     public int houseCozinessThis;
-    public GameObject characterObject;
-    private Character characterScript;
+    //public GameObject cozyManager;
+    //CozinessManager CozinessManager;
+    //LevelState levelState;
+    //public GameObject levelStateObject;
+ 
 
     private bool isActive;
+    public bool onlyOnce;
 
     // Start is called before the first frame update
     void Start()
     {
-        characterScript = characterObject.GetComponent<Character>();
+        //CozinessManager = cozyManager.GetComponent<CozinessManager>();
+        
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     private void OnMouseDown()
     {
-        if (isActive == false)
+        if (onlyOnce == true)
         {
-            houseCozinessThis = characterScript.houseCoziness;
-            Debug.Log(houseCozinessThis);
-            characterScript.houseCoziness += 1;
+            if (isActive == false)
+            {
+                //houseCozinessThis = CozinessManager.coziness;
+                //Debug.Log(houseCozinessThis);
+                //CozinessManager.coziness += 1;
 
-            isActive = true;
+
+
+                isActive = true;
+            }
         }
-        
+        else
+        {
+            //houseCozinessThis = CozinessManager.coziness;
+            //Debug.Log(houseCozinessThis);
+            //CozinessManager.coziness += 1;
+
+            houseCozinessThis = LevelState.Instance.coziness;
+            houseCozinessThis++;
+            LevelState.Instance.coziness = houseCozinessThis;
+
+        }
 
 
 

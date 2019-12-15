@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: a1fe7a73feebc4f549fdbe5f896fd561
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: door_screen
+    100004: door_screen_frame
+    100006: hinge1
+    100008: hinge2
+    100010: hinge3
+    100012: hinge4
+    100014: pCube43
+    100016: pCylinder6
+    100018: pCylinder6 1
+    100020: pCylinder7
+    100022: pCylinder7 1
+    100024: pCylinder8
+    100026: pCylinder8 1
+    100028: screenglass
+    400000: //RootNode
+    400002: door_screen
+    400004: door_screen_frame
+    400006: hinge1
+    400008: hinge2
+    400010: hinge3
+    400012: hinge4
+    400014: pCube43
+    400016: pCylinder6
+    400018: pCylinder6 1
+    400020: pCylinder7
+    400022: pCylinder7 1
+    400024: pCylinder8
+    400026: pCylinder8 1
+    400028: screenglass
+    2100000: green_door_new
+    2100002: metal_dark_new
+    2100004: glass
+    2300000: door_screen
+    2300002: door_screen_frame
+    2300004: hinge1
+    2300006: hinge2
+    2300008: hinge3
+    2300010: hinge4
+    2300012: pCube43
+    2300014: pCylinder6
+    2300016: pCylinder6 1
+    2300018: pCylinder7
+    2300020: pCylinder7 1
+    2300022: pCylinder8
+    2300024: pCylinder8 1
+    2300026: screenglass
+    3300000: door_screen
+    3300002: door_screen_frame
+    3300004: hinge1
+    3300006: hinge2
+    3300008: hinge3
+    3300010: hinge4
+    3300012: pCube43
+    3300014: pCylinder6
+    3300016: pCylinder6 1
+    3300018: pCylinder7
+    3300020: pCylinder7 1
+    3300022: pCylinder8
+    3300024: pCylinder8 1
+    3300026: screenglass
+    4300000: door_screen_frame
+    4300002: hinge1
+    4300004: pCylinder8
+    4300006: pCylinder6
+    4300008: hinge4
+    4300010: pCylinder8
+    4300012: pCylinder6
+    4300014: door_screen
+    4300016: screenglass
+    4300018: hinge3
+    4300020: pCylinder7
+    4300022: hinge2
+    4300024: pCylinder7
+    4300026: pCube43
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

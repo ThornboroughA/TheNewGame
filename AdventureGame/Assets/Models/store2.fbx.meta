@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: a04556097951d4150a37f99efb8a9dd5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ac_unit
+    100002: awningorange
+    100004: door_plain3
+    100006: doorframe
+    100008: extras
+    100010: pCube1096
+    100012: pCube1099
+    100014: pCube1099 1
+    100016: pCube1099 10
+    100018: pCube1099 11
+    100020: pCube1099 12
+    100022: pCube1099 13
+    100024: pCube1099 14
+    100026: pCube1099 15
+    100028: pCube1099 2
+    100030: pCube1099 3
+    100032: pCube1099 4
+    100034: pCube1099 5
+    100036: pCube1099 6
+    100038: pCube1099 7
+    100040: pCube1099 8
+    100042: pCube1099 9
+    100044: pCube1102
+    100046: pCube1106
+    100048: pCube1115
+    100050: pCube1116
+    100052: pCube1117
+    100054: pCube1118
+    100056: pCube1119
+    100058: pCube1120
+    100060: pCube1121
+    100062: pCube1122
+    100064: pCube1123
+    100066: pCube1124
+    100068: pCube1125
+    100070: pCube1126
+    100072: pCube1127
+    100074: pCube1128
+    100076: pCube1129
+    100078: pCube1130
+    100080: pCylinder11
+    100082: pCylinder13
+    100084: pipe_side
+    100086: roofstuff
+    100088: roofthing1
+    100090: roofthing2
+    100092: sideframe
+    100094: //RootNode
+    100096: wallstuff
+    100098: windowframe_plain12
+    100100: windowframe_plain13
+    100102: windowframe_plain14
+    100104: windowframe_plain15
+    100106: windowframe_plain16
+    100108: windowframe_plain17
+    100110: windowframe_plain19
+    100112: windowframe_plain20
+    100114: windowframes
+    100116: windowpane
+    100118: windowpane 1
+    100120: windowpane 2
+    100122: windowpane 3
+    100124: windowpane 4
+    100126: windowpane 5
+    100128: windowpane 6
+    100130: windowpane 7
+    100132: windowpane1
+    100134: windowpane1 1
+    100136: windowpane1 2
+    100138: windowpane1 3
+    100140: windowpane1 4
+    100142: windowpane1 5
+    100144: windowpane1 6
+    100146: windowpane1 7
+    100148: windows
+    400000: ac_unit
+    400002: awningorange
+    400004: door_plain3
+    400006: doorframe
+    400008: extras
+    400010: pCube1096
+    400012: pCube1099
+    400014: pCube1099 1
+    400016: pCube1099 10
+    400018: pCube1099 11
+    400020: pCube1099 12
+    400022: pCube1099 13
+    400024: pCube1099 14
+    400026: pCube1099 15
+    400028: pCube1099 2
+    400030: pCube1099 3
+    400032: pCube1099 4
+    400034: pCube1099 5
+    400036: pCube1099 6
+    400038: pCube1099 7
+    400040: pCube1099 8
+    400042: pCube1099 9
+    400044: pCube1102
+    400046: pCube1106
+    400048: pCube1115
+    400050: pCube1116
+    400052: pCube1117
+    400054: pCube1118
+    400056: pCube1119
+    400058: pCube1120
+    400060: pCube1121
+    400062: pCube1122
+    400064: pCube1123
+    400066: pCube1124
+    400068: pCube1125
+    400070: pCube1126
+    400072: pCube1127
+    400074: pCube1128
+    400076: pCube1129
+    400078: pCube1130
+    400080: pCylinder11
+    400082: pCylinder13
+    400084: pipe_side
+    400086: roofstuff
+    400088: roofthing1
+    400090: roofthing2
+    400092: sideframe
+    400094: //RootNode
+    400096: wallstuff
+    400098: windowframe_plain12
+    400100: windowframe_plain13
+    400102: windowframe_plain14
+    400104: windowframe_plain15
+    400106: windowframe_plain16
+    400108: windowframe_plain17
+    400110: windowframe_plain19
+    400112: windowframe_plain20
+    400114: windowframes
+    400116: windowpane
+    400118: windowpane 1
+    400120: windowpane 2
+    400122: windowpane 3
+    400124: windowpane 4
+    400126: windowpane 5
+    400128: windowpane 6
+    400130: windowpane 7
+    400132: windowpane1
+    400134: windowpane1 1
+    400136: windowpane1 2
+    400138: windowpane1 3
+    400140: windowpane1 4
+    400142: windowpane1 5
+    400144: windowpane1 6
+    400146: windowpane1 7
+    400148: windows
+    2100000: white_paper
+    2100002: red_brick
+    2100004: glass1_opaque
+    2100006: grey
+    2100008: orange
+    2100010: white
+    2100012: blue
+    2100014: metal_generic_darker
+    2100016: metal_lighter_generic
+    2300000: awningorange
+    2300002: door_plain3
+    2300004: doorframe
+    2300006: pCube1096
+    2300008: pCube1099
+    2300010: pCube1099 1
+    2300012: pCube1099 10
+    2300014: pCube1099 11
+    2300016: pCube1099 12
+    2300018: pCube1099 13
+    2300020: pCube1099 14
+    2300022: pCube1099 15
+    2300024: pCube1099 2
+    2300026: pCube1099 3
+    2300028: pCube1099 4
+    2300030: pCube1099 5
+    2300032: pCube1099 6
+    2300034: pCube1099 7
+    2300036: pCube1099 8
+    2300038: pCube1099 9
+    2300040: pCube1102
+    2300042: pCube1106
+    2300044: pCube1115
+    2300046: pCube1116
+    2300048: pCube1117
+    2300050: pCube1118
+    2300052: pCube1119
+    2300054: pCube1120
+    2300056: pCube1121
+    2300058: pCube1122
+    2300060: pCube1123
+    2300062: pCube1124
+    2300064: pCube1125
+    2300066: pCube1126
+    2300068: pCube1127
+    2300070: pCube1128
+    2300072: pCube1129
+    2300074: pCube1130
+    2300076: pCylinder11
+    2300078: pCylinder13
+    2300080: roofthing1
+    2300082: roofthing2
+    2300084: //RootNode
+    2300086: windowframe_plain12
+    2300088: windowframe_plain13
+    2300090: windowframe_plain14
+    2300092: windowframe_plain15
+    2300094: windowframe_plain16
+    2300096: windowframe_plain17
+    2300098: windowframe_plain19
+    2300100: windowframe_plain20
+    2300102: windowpane
+    2300104: windowpane 1
+    2300106: windowpane 2
+    2300108: windowpane 3
+    2300110: windowpane 4
+    2300112: windowpane 5
+    2300114: windowpane 6
+    2300116: windowpane 7
+    2300118: windowpane1
+    2300120: windowpane1 1
+    2300122: windowpane1 2
+    2300124: windowpane1 3
+    2300126: windowpane1 4
+    2300128: windowpane1 5
+    2300130: windowpane1 6
+    2300132: windowpane1 7
+    3300000: awningorange
+    3300002: door_plain3
+    3300004: doorframe
+    3300006: pCube1096
+    3300008: pCube1099
+    3300010: pCube1099 1
+    3300012: pCube1099 10
+    3300014: pCube1099 11
+    3300016: pCube1099 12
+    3300018: pCube1099 13
+    3300020: pCube1099 14
+    3300022: pCube1099 15
+    3300024: pCube1099 2
+    3300026: pCube1099 3
+    3300028: pCube1099 4
+    3300030: pCube1099 5
+    3300032: pCube1099 6
+    3300034: pCube1099 7
+    3300036: pCube1099 8
+    3300038: pCube1099 9
+    3300040: pCube1102
+    3300042: pCube1106
+    3300044: pCube1115
+    3300046: pCube1116
+    3300048: pCube1117
+    3300050: pCube1118
+    3300052: pCube1119
+    3300054: pCube1120
+    3300056: pCube1121
+    3300058: pCube1122
+    3300060: pCube1123
+    3300062: pCube1124
+    3300064: pCube1125
+    3300066: pCube1126
+    3300068: pCube1127
+    3300070: pCube1128
+    3300072: pCube1129
+    3300074: pCube1130
+    3300076: pCylinder11
+    3300078: pCylinder13
+    3300080: roofthing1
+    3300082: roofthing2
+    3300084: //RootNode
+    3300086: windowframe_plain12
+    3300088: windowframe_plain13
+    3300090: windowframe_plain14
+    3300092: windowframe_plain15
+    3300094: windowframe_plain16
+    3300096: windowframe_plain17
+    3300098: windowframe_plain19
+    3300100: windowframe_plain20
+    3300102: windowpane
+    3300104: windowpane 1
+    3300106: windowpane 2
+    3300108: windowpane 3
+    3300110: windowpane 4
+    3300112: windowpane 5
+    3300114: windowpane 6
+    3300116: windowpane 7
+    3300118: windowpane1
+    3300120: windowpane1 1
+    3300122: windowpane1 2
+    3300124: windowpane1 3
+    3300126: windowpane1 4
+    3300128: windowpane1 5
+    3300130: windowpane1 6
+    3300132: windowpane1 7
+    4300000: store1
+    4300002: awningorange
+    4300004: door_plain3
+    4300006: pCube1096
+    4300008: pCube1116
+    4300010: pCube1115
+    4300012: pCube1106
+    4300014: pCube1102
+    4300016: windowframe_plain12
+    4300018: windowpane
+    4300020: pCube1099
+    4300022: windowpane1
+    4300024: pCube1099
+    4300026: windowframe_plain13
+    4300028: windowpane
+    4300030: pCube1099
+    4300032: windowpane1
+    4300034: pCube1099
+    4300036: windowframe_plain14
+    4300038: windowpane
+    4300040: pCube1099
+    4300042: windowpane1
+    4300044: pCube1099
+    4300046: windowframe_plain15
+    4300048: windowpane
+    4300050: pCube1099
+    4300052: windowpane1
+    4300054: pCube1099
+    4300056: windowframe_plain16
+    4300058: windowpane
+    4300060: pCube1099
+    4300062: windowpane1
+    4300064: pCube1099
+    4300066: windowframe_plain17
+    4300068: windowpane
+    4300070: pCube1099
+    4300072: windowpane1
+    4300074: pCube1099
+    4300076: windowframe_plain19
+    4300078: windowpane
+    4300080: pCube1099
+    4300082: windowpane1
+    4300084: pCube1099
+    4300086: windowframe_plain20
+    4300088: windowpane
+    4300090: pCube1099
+    4300092: windowpane1
+    4300094: pCube1099
+    4300096: doorframe
+    4300098: pCube1130
+    4300100: roofthing1
+    4300102: pCube1118
+    4300104: pCube1119
+    4300106: pCube1120
+    4300108: pCube1121
+    4300110: pCube1122
+    4300112: pCube1123
+    4300114: pCube1117
+    4300116: pCube1129
+    4300118: pCube1128
+    4300120: pCube1127
+    4300122: pCube1124
+    4300124: pCube1125
+    4300126: pCube1126
+    4300128: pCylinder11
+    4300130: pCylinder13
+    4300132: roofthing2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

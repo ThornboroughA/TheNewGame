@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: f7eb76e3a63b941a599f717f54b3b1cd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: door_main
+    100002: door_main 1
+    100004: door_main_frame
+    100006: door_main_frame 1
+    100008: doorhandle
+    100010: doorhandle 1
+    100012: doorhandle1
+    100014: doorhandle1 1
+    100016: doormain_template1
+    100018: doormain_template2
+    100020: floor
+    100022: frame
+    100024: hinge5
+    100026: hinge5 1
+    100028: hinge6
+    100030: hinge6 1
+    100032: hinge7
+    100034: hinge7 1
+    100036: hinge8
+    100038: hinge8 1
+    100040: //RootNode
+    100042: pCube136
+    100044: pCube139
+    100046: pCube142
+    100048: pCube151
+    100050: pCube161
+    100052: pCube162
+    100054: pCube163
+    100056: pCube167
+    100058: pCube44
+    100060: pCube44 1
+    100062: pCube44 2
+    100064: pCube44 3
+    100066: pCube45
+    100068: pCube45 1
+    100070: pCube45 2
+    100072: pCube45 3
+    100074: pCube46
+    100076: pCube46 1
+    100078: pCube46 2
+    100080: pCube46 3
+    100082: pCylinder6
+    100084: pCylinder6 1
+    100086: pCylinder6 2
+    100088: pCylinder6 3
+    100090: pCylinder7
+    100092: pCylinder7 1
+    100094: pCylinder7 2
+    100096: pCylinder7 3
+    100098: pCylinder8
+    100100: pCylinder8 1
+    100102: pCylinder8 2
+    100104: pCylinder8 3
+    100106: planks
+    100108: screenglass1
+    100110: screenglass1 1
+    100112: window_planks2
+    400000: door_main
+    400002: door_main 1
+    400004: door_main_frame
+    400006: door_main_frame 1
+    400008: doorhandle
+    400010: doorhandle 1
+    400012: doorhandle1
+    400014: doorhandle1 1
+    400016: doormain_template1
+    400018: doormain_template2
+    400020: floor
+    400022: frame
+    400024: hinge5
+    400026: hinge5 1
+    400028: hinge6
+    400030: hinge6 1
+    400032: hinge7
+    400034: hinge7 1
+    400036: hinge8
+    400038: hinge8 1
+    400040: //RootNode
+    400042: pCube136
+    400044: pCube139
+    400046: pCube142
+    400048: pCube151
+    400050: pCube161
+    400052: pCube162
+    400054: pCube163
+    400056: pCube167
+    400058: pCube44
+    400060: pCube44 1
+    400062: pCube44 2
+    400064: pCube44 3
+    400066: pCube45
+    400068: pCube45 1
+    400070: pCube45 2
+    400072: pCube45 3
+    400074: pCube46
+    400076: pCube46 1
+    400078: pCube46 2
+    400080: pCube46 3
+    400082: pCylinder6
+    400084: pCylinder6 1
+    400086: pCylinder6 2
+    400088: pCylinder6 3
+    400090: pCylinder7
+    400092: pCylinder7 1
+    400094: pCylinder7 2
+    400096: pCylinder7 3
+    400098: pCylinder8
+    400100: pCylinder8 1
+    400102: pCylinder8 2
+    400104: pCylinder8 3
+    400106: planks
+    400108: screenglass1
+    400110: screenglass1 1
+    400112: window_planks2
+    2100000: grey_stone_new
+    2100002: green_door_new
+    2100004: metal_dark_new
+    2100006: white_cream_new
+    2100008: glass
+    2100010: glass_opaque_new
+    2100012: white_walls_new
+    2100014: brown_furnishingwood_new
+    2300000: door_main
+    2300002: door_main 1
+    2300004: door_main_frame
+    2300006: door_main_frame 1
+    2300008: doorhandle
+    2300010: doorhandle 1
+    2300012: doorhandle1
+    2300014: doorhandle1 1
+    2300016: floor
+    2300018: frame
+    2300020: hinge5
+    2300022: hinge5 1
+    2300024: hinge6
+    2300026: hinge6 1
+    2300028: hinge7
+    2300030: hinge7 1
+    2300032: hinge8
+    2300034: hinge8 1
+    2300036: pCube136
+    2300038: pCube139
+    2300040: pCube142
+    2300042: pCube151
+    2300044: pCube161
+    2300046: pCube162
+    2300048: pCube163
+    2300050: pCube167
+    2300052: pCube44
+    2300054: pCube44 1
+    2300056: pCube44 2
+    2300058: pCube44 3
+    2300060: pCube45
+    2300062: pCube45 1
+    2300064: pCube45 2
+    2300066: pCube45 3
+    2300068: pCube46
+    2300070: pCube46 1
+    2300072: pCube46 2
+    2300074: pCube46 3
+    2300076: pCylinder6
+    2300078: pCylinder6 1
+    2300080: pCylinder6 2
+    2300082: pCylinder6 3
+    2300084: pCylinder7
+    2300086: pCylinder7 1
+    2300088: pCylinder7 2
+    2300090: pCylinder7 3
+    2300092: pCylinder8
+    2300094: pCylinder8 1
+    2300096: pCylinder8 2
+    2300098: pCylinder8 3
+    2300100: screenglass1
+    2300102: screenglass1 1
+    2300104: window_planks2
+    3300000: door_main
+    3300002: door_main 1
+    3300004: door_main_frame
+    3300006: door_main_frame 1
+    3300008: doorhandle
+    3300010: doorhandle 1
+    3300012: doorhandle1
+    3300014: doorhandle1 1
+    3300016: floor
+    3300018: frame
+    3300020: hinge5
+    3300022: hinge5 1
+    3300024: hinge6
+    3300026: hinge6 1
+    3300028: hinge7
+    3300030: hinge7 1
+    3300032: hinge8
+    3300034: hinge8 1
+    3300036: pCube136
+    3300038: pCube139
+    3300040: pCube142
+    3300042: pCube151
+    3300044: pCube161
+    3300046: pCube162
+    3300048: pCube163
+    3300050: pCube167
+    3300052: pCube44
+    3300054: pCube44 1
+    3300056: pCube44 2
+    3300058: pCube44 3
+    3300060: pCube45
+    3300062: pCube45 1
+    3300064: pCube45 2
+    3300066: pCube45 3
+    3300068: pCube46
+    3300070: pCube46 1
+    3300072: pCube46 2
+    3300074: pCube46 3
+    3300076: pCylinder6
+    3300078: pCylinder6 1
+    3300080: pCylinder6 2
+    3300082: pCylinder6 3
+    3300084: pCylinder7
+    3300086: pCylinder7 1
+    3300088: pCylinder7 2
+    3300090: pCylinder7 3
+    3300092: pCylinder8
+    3300094: pCylinder8 1
+    3300096: pCylinder8 2
+    3300098: pCylinder8 3
+    3300100: screenglass1
+    3300102: screenglass1 1
+    3300104: window_planks2
+    4300000: floor
+    4300002: door_main
+    4300004: screenglass1
+    4300006: hinge5
+    4300008: pCylinder8
+    4300010: pCylinder6
+    4300012: hinge8
+    4300014: pCylinder8
+    4300016: pCylinder6
+    4300018: doorhandle
+    4300020: pCube44
+    4300022: pCube45
+    4300024: pCube46
+    4300026: doorhandle1
+    4300028: pCube44
+    4300030: pCube45
+    4300032: pCube46
+    4300034: door_main_frame
+    4300036: hinge6
+    4300038: pCylinder7
+    4300040: hinge7
+    4300042: pCylinder7
+    4300044: window_planks2
+    4300046: door_main
+    4300048: screenglass1
+    4300050: hinge5
+    4300052: pCylinder8
+    4300054: pCylinder6
+    4300056: hinge8
+    4300058: pCylinder8
+    4300060: pCylinder6
+    4300062: doorhandle
+    4300064: pCube44
+    4300066: pCube45
+    4300068: pCube46
+    4300070: doorhandle1
+    4300072: pCube44
+    4300074: pCube45
+    4300076: pCube46
+    4300078: door_main_frame
+    4300080: hinge6
+    4300082: pCylinder7
+    4300084: hinge7
+    4300086: pCylinder7
+    4300088: frame
+    4300090: pCube161
+    4300092: pCube151
+    4300094: pCube163
+    4300096: pCube162
+    4300098: pCube167
+    4300100: pCube136
+    4300102: pCube142
+    4300104: pCube139
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

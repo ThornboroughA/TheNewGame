@@ -5,13 +5,14 @@ using UnityEngine;
 public class ClickAnimation : MonoBehaviour
 {
     //static Animator anim;
-    public Animator anim;
+    private Animator anim;
     public GameObject effectItem;
     public float timeToWait = 1;
 
     public bool isActive;
 
-
+    public float distance;
+    public Transform player;
 
 
 
@@ -21,12 +22,31 @@ public class ClickAnimation : MonoBehaviour
         anim = GetComponent<Animator>();
     }
 
+    
+
     private void OnMouseDown()
     {
-        anim.SetBool("isClicked", true);
-        Debug.Log("1. " + anim + "click collider triggered");
+        if (distance > 0)
+        {
+            if (Vector3.Distance(transform.position, player.position) < distance)
+            {
+                anim.SetBool("isClicked", true);
+                Debug.Log("1. " + anim + "click collider triggered");
 
-        StartCoroutine(EffectItemCall());
+                StartCoroutine(EffectItemCall());
+            }
+        }
+        else
+        {
+            anim.SetBool("isClicked", true);
+            Debug.Log("1. " + anim + "click collider triggered");
+
+            StartCoroutine(EffectItemCall());
+        }
+
+
+
+
     }
 
     public IEnumerator EffectItemCall()
@@ -36,7 +56,6 @@ public class ClickAnimation : MonoBehaviour
         {
             effectItem.SetActive(true);
         }
-       // Debug.Log("2. " + "is active");
         isActive = true;
     }
 

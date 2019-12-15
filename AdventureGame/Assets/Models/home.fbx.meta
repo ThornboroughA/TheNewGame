@@ -1,0 +1,1557 @@
+fileFormatVersion: 2
+guid: 40e52464e323342af93f6f4183c94a3b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: basementdoor
+    100002: bedroom
+    100004: bedroom_frontporch_roof
+    100006: bottom
+    100008: bottom 1
+    100010: chimney
+    100012: clapboard
+    100014: clapboard_and_frame
+    100016: clapboardbase
+    100018: clapboardbase1
+    100020: clapboardbase10
+    100022: clapboardbase11
+    100024: clapboardbase12
+    100026: clapboardbase14
+    100028: clapboardbase15
+    100030: clapboardbase16
+    100032: clapboardbase17
+    100034: clapboardbase18
+    100036: clapboardbase2
+    100038: clapboardbase20
+    100040: clapboardbase21
+    100042: clapboardbase22
+    100044: clapboardbase23
+    100046: clapboardbase24
+    100048: clapboardbase29
+    100050: clapboardbase30
+    100052: clapboardbase31
+    100054: clapboardbase32
+    100056: clapboardbase38
+    100058: clapboardbase4
+    100060: clapboardbase5
+    100062: clapboardbase6
+    100064: clapboardbase7
+    100066: clapboardbase8
+    100068: clapboardbase9
+    100070: door_main
+    100072: door_main 1
+    100074: door_main 2
+    100076: door_main1
+    100078: door_main2
+    100080: door_main_frame
+    100082: door_main_frame 1
+    100084: doorhandle
+    100086: doorhandle 1
+    100088: doorhandle1
+    100090: doorhandle1 1
+    100092: doorhandles
+    100094: frame
+    100096: frontporch
+    100098: glass1
+    100100: glass1 1
+    100102: group1
+    100104: group1 1
+    100106: group1 2
+    100108: group2
+    100110: group2 1
+    100112: group2 2
+    100114: group2 3
+    100116: hinge4
+    100118: hinge5
+    100120: hinge5 1
+    100122: hinge6
+    100124: hinge6 1
+    100126: hinge7
+    100128: hinge7 1
+    100130: hinge8
+    100132: hinge8 1
+    100134: //RootNode
+    100136: kitchen
+    100138: kitchen_ceiling
+    100140: kitchen_ceiling 1
+    100142: kitchen_frame
+    100144: lamp
+    100146: lamp 1
+    100148: lamp 2
+    100150: lamp1
+    100152: livingroom
+    100154: livingroom 1
+    100156: office
+    100158: office 1
+    100160: office_livingroom
+    100162: office_livingroom_roof
+    100164: pasted__pCube684
+    100166: pasted__pCube684 1
+    100168: pasted__pCube684 2
+    100170: pasted__pCube684 3
+    100172: pasted__pCube684 4
+    100174: pasted__pCube685
+    100176: pasted__pCube685 1
+    100178: pasted__pCube685 2
+    100180: pasted__pCube685 3
+    100182: pasted__pCube685 4
+    100184: pasted__window_simpler
+    100186: pasted__window_simpler1
+    100188: pasted__window_simpler2
+    100190: pasted__window_simpler3
+    100192: pasted__window_simpler4
+    100194: pasted__window_simpler5
+    100196: pCube10
+    100198: pCube100
+    100200: pCube101
+    100202: pCube102
+    100204: pCube103
+    100206: pCube104
+    100208: pCube105
+    100210: pCube106
+    100212: pCube106 1
+    100214: pCube106 2
+    100216: pCube106 3
+    100218: pCube106 4
+    100220: pCube106 5
+    100222: pCube108
+    100224: pCube109
+    100226: pCube11
+    100228: pCube110
+    100230: pCube113
+    100232: pCube114
+    100234: pCube115
+    100236: pCube116
+    100238: pCube117
+    100240: pCube118
+    100242: pCube119
+    100244: pCube12
+    100246: pCube13
+    100248: pCube14
+    100250: pCube15
+    100252: pCube18
+    100254: pCube20
+    100256: pCube21
+    100258: pCube42
+    100260: pCube44
+    100262: pCube44 1
+    100264: pCube44 2
+    100266: pCube44 3
+    100268: pCube45
+    100270: pCube45 1
+    100272: pCube45 2
+    100274: pCube45 3
+    100276: pCube46
+    100278: pCube46 1
+    100280: pCube46 2
+    100282: pCube46 3
+    100284: pCube48
+    100286: pCube53
+    100288: pCube57
+    100290: pCube62
+    100292: pCube63
+    100294: pCube64
+    100296: pCube64 1
+    100298: pCube64 2
+    100300: pCube64 3
+    100302: pCube91
+    100304: pCube91 1
+    100306: pCube91 2
+    100308: pCube91 3
+    100310: pCube92
+    100312: pCube93
+    100314: pCube94
+    100316: pCube95
+    100318: pCylinder18
+    100320: pCylinder18 1
+    100322: pCylinder18 10
+    100324: pCylinder18 11
+    100326: pCylinder18 12
+    100328: pCylinder18 13
+    100330: pCylinder18 14
+    100332: pCylinder18 15
+    100334: pCylinder18 16
+    100336: pCylinder18 17
+    100338: pCylinder18 18
+    100340: pCylinder18 19
+    100342: pCylinder18 2
+    100344: pCylinder18 20
+    100346: pCylinder18 21
+    100348: pCylinder18 22
+    100350: pCylinder18 23
+    100352: pCylinder18 24
+    100354: pCylinder18 25
+    100356: pCylinder18 26
+    100358: pCylinder18 27
+    100360: pCylinder18 3
+    100362: pCylinder18 4
+    100364: pCylinder18 5
+    100366: pCylinder18 6
+    100368: pCylinder18 7
+    100370: pCylinder18 8
+    100372: pCylinder18 9
+    100374: pCylinder19
+    100376: pCylinder19 1
+    100378: pCylinder19 10
+    100380: pCylinder19 11
+    100382: pCylinder19 12
+    100384: pCylinder19 13
+    100386: pCylinder19 14
+    100388: pCylinder19 15
+    100390: pCylinder19 16
+    100392: pCylinder19 17
+    100394: pCylinder19 18
+    100396: pCylinder19 19
+    100398: pCylinder19 2
+    100400: pCylinder19 20
+    100402: pCylinder19 21
+    100404: pCylinder19 22
+    100406: pCylinder19 23
+    100408: pCylinder19 24
+    100410: pCylinder19 25
+    100412: pCylinder19 26
+    100414: pCylinder19 27
+    100416: pCylinder19 3
+    100418: pCylinder19 4
+    100420: pCylinder19 5
+    100422: pCylinder19 6
+    100424: pCylinder19 7
+    100426: pCylinder19 8
+    100428: pCylinder19 9
+    100430: pCylinder6
+    100432: pCylinder6 1
+    100434: pCylinder6 2
+    100436: pCylinder6 3
+    100438: pCylinder6 4
+    100440: pCylinder7
+    100442: pCylinder7 1
+    100444: pCylinder7 2
+    100446: pCylinder7 3
+    100448: pCylinder8
+    100450: pCylinder8 1
+    100452: pCylinder8 2
+    100454: pCylinder8 3
+    100456: pCylinder8 4
+    100458: polySurface10
+    100460: polySurface12
+    100462: polySurface14
+    100464: polySurface3
+    100466: polySurface6
+    100468: polySurface7
+    100470: polySurface9
+    100472: porch
+    100474: porch_frametop
+    100476: porchframe
+    100478: porchshelf
+    100480: roof
+    100482: roof 1
+    100484: roof 2
+    100486: roof 3
+    100488: roof 4
+    100490: roof 5
+    100492: roof1
+    100494: roof1 1
+    100496: roof1 2
+    100498: roof10
+    100500: roof11
+    100502: roof12
+    100504: roof14
+    100506: roof2
+    100508: roof2 1
+    100510: roof3
+    100512: roof3 1
+    100514: roof5
+    100516: roof6
+    100518: roof7
+    100520: roof8
+    100522: roof9
+    100524: roof_main
+    100526: roof_upper
+    100528: roofslats
+    100530: roofslats 1
+    100532: roofslats 2
+    100534: roofslats1
+    100536: roomframe
+    100538: roomframe_bedroom
+    100540: screendoor
+    100542: screendoor1
+    100544: screenglass1
+    100546: screenglass1 1
+    100548: shutter
+    100550: shutter 1
+    100552: shutter 10
+    100554: shutter 11
+    100556: shutter 12
+    100558: shutter 13
+    100560: shutter 2
+    100562: shutter 3
+    100564: shutter 4
+    100566: shutter 5
+    100568: shutter 6
+    100570: shutter 7
+    100572: shutter 8
+    100574: shutter 9
+    100576: shutter1
+    100578: shutter1 1
+    100580: shutter1 10
+    100582: shutter1 11
+    100584: shutter1 12
+    100586: shutter1 13
+    100588: shutter1 2
+    100590: shutter1 3
+    100592: shutter1 4
+    100594: shutter1 5
+    100596: shutter1 6
+    100598: shutter1 7
+    100600: shutter1 8
+    100602: shutter1 9
+    100604: shutters
+    100606: shutters1
+    100608: shutters2
+    100610: shutters3
+    100612: shutters4
+    100614: shutters5
+    100616: shutters6
+    100618: shutters6 1
+    100620: shutters6 2
+    100622: shutters6 3
+    100624: shutters6 4
+    100626: shutters6 5
+    100628: shutters7
+    100630: shutters8
+    100632: step
+    100634: welcomemat
+    100636: window_planks
+    100638: window_planks1
+    100640: window_small
+    100642: window_small1
+    100644: window_small2
+    100646: window_small3
+    100648: window_small4
+    100650: window_small5
+    100652: windowframe
+    100654: windows
+    400000: basementdoor
+    400002: bedroom
+    400004: bedroom_frontporch_roof
+    400006: bottom
+    400008: bottom 1
+    400010: chimney
+    400012: clapboard
+    400014: clapboard_and_frame
+    400016: clapboardbase
+    400018: clapboardbase1
+    400020: clapboardbase10
+    400022: clapboardbase11
+    400024: clapboardbase12
+    400026: clapboardbase14
+    400028: clapboardbase15
+    400030: clapboardbase16
+    400032: clapboardbase17
+    400034: clapboardbase18
+    400036: clapboardbase2
+    400038: clapboardbase20
+    400040: clapboardbase21
+    400042: clapboardbase22
+    400044: clapboardbase23
+    400046: clapboardbase24
+    400048: clapboardbase29
+    400050: clapboardbase30
+    400052: clapboardbase31
+    400054: clapboardbase32
+    400056: clapboardbase38
+    400058: clapboardbase4
+    400060: clapboardbase5
+    400062: clapboardbase6
+    400064: clapboardbase7
+    400066: clapboardbase8
+    400068: clapboardbase9
+    400070: door_main
+    400072: door_main 1
+    400074: door_main 2
+    400076: door_main1
+    400078: door_main2
+    400080: door_main_frame
+    400082: door_main_frame 1
+    400084: doorhandle
+    400086: doorhandle 1
+    400088: doorhandle1
+    400090: doorhandle1 1
+    400092: doorhandles
+    400094: frame
+    400096: frontporch
+    400098: glass1
+    400100: glass1 1
+    400102: group1
+    400104: group1 1
+    400106: group1 2
+    400108: group2
+    400110: group2 1
+    400112: group2 2
+    400114: group2 3
+    400116: hinge4
+    400118: hinge5
+    400120: hinge5 1
+    400122: hinge6
+    400124: hinge6 1
+    400126: hinge7
+    400128: hinge7 1
+    400130: hinge8
+    400132: hinge8 1
+    400134: //RootNode
+    400136: kitchen
+    400138: kitchen_ceiling
+    400140: kitchen_ceiling 1
+    400142: kitchen_frame
+    400144: lamp
+    400146: lamp 1
+    400148: lamp 2
+    400150: lamp1
+    400152: livingroom
+    400154: livingroom 1
+    400156: office
+    400158: office 1
+    400160: office_livingroom
+    400162: office_livingroom_roof
+    400164: pasted__pCube684
+    400166: pasted__pCube684 1
+    400168: pasted__pCube684 2
+    400170: pasted__pCube684 3
+    400172: pasted__pCube684 4
+    400174: pasted__pCube685
+    400176: pasted__pCube685 1
+    400178: pasted__pCube685 2
+    400180: pasted__pCube685 3
+    400182: pasted__pCube685 4
+    400184: pasted__window_simpler
+    400186: pasted__window_simpler1
+    400188: pasted__window_simpler2
+    400190: pasted__window_simpler3
+    400192: pasted__window_simpler4
+    400194: pasted__window_simpler5
+    400196: pCube10
+    400198: pCube100
+    400200: pCube101
+    400202: pCube102
+    400204: pCube103
+    400206: pCube104
+    400208: pCube105
+    400210: pCube106
+    400212: pCube106 1
+    400214: pCube106 2
+    400216: pCube106 3
+    400218: pCube106 4
+    400220: pCube106 5
+    400222: pCube108
+    400224: pCube109
+    400226: pCube11
+    400228: pCube110
+    400230: pCube113
+    400232: pCube114
+    400234: pCube115
+    400236: pCube116
+    400238: pCube117
+    400240: pCube118
+    400242: pCube119
+    400244: pCube12
+    400246: pCube13
+    400248: pCube14
+    400250: pCube15
+    400252: pCube18
+    400254: pCube20
+    400256: pCube21
+    400258: pCube42
+    400260: pCube44
+    400262: pCube44 1
+    400264: pCube44 2
+    400266: pCube44 3
+    400268: pCube45
+    400270: pCube45 1
+    400272: pCube45 2
+    400274: pCube45 3
+    400276: pCube46
+    400278: pCube46 1
+    400280: pCube46 2
+    400282: pCube46 3
+    400284: pCube48
+    400286: pCube53
+    400288: pCube57
+    400290: pCube62
+    400292: pCube63
+    400294: pCube64
+    400296: pCube64 1
+    400298: pCube64 2
+    400300: pCube64 3
+    400302: pCube91
+    400304: pCube91 1
+    400306: pCube91 2
+    400308: pCube91 3
+    400310: pCube92
+    400312: pCube93
+    400314: pCube94
+    400316: pCube95
+    400318: pCylinder18
+    400320: pCylinder18 1
+    400322: pCylinder18 10
+    400324: pCylinder18 11
+    400326: pCylinder18 12
+    400328: pCylinder18 13
+    400330: pCylinder18 14
+    400332: pCylinder18 15
+    400334: pCylinder18 16
+    400336: pCylinder18 17
+    400338: pCylinder18 18
+    400340: pCylinder18 19
+    400342: pCylinder18 2
+    400344: pCylinder18 20
+    400346: pCylinder18 21
+    400348: pCylinder18 22
+    400350: pCylinder18 23
+    400352: pCylinder18 24
+    400354: pCylinder18 25
+    400356: pCylinder18 26
+    400358: pCylinder18 27
+    400360: pCylinder18 3
+    400362: pCylinder18 4
+    400364: pCylinder18 5
+    400366: pCylinder18 6
+    400368: pCylinder18 7
+    400370: pCylinder18 8
+    400372: pCylinder18 9
+    400374: pCylinder19
+    400376: pCylinder19 1
+    400378: pCylinder19 10
+    400380: pCylinder19 11
+    400382: pCylinder19 12
+    400384: pCylinder19 13
+    400386: pCylinder19 14
+    400388: pCylinder19 15
+    400390: pCylinder19 16
+    400392: pCylinder19 17
+    400394: pCylinder19 18
+    400396: pCylinder19 19
+    400398: pCylinder19 2
+    400400: pCylinder19 20
+    400402: pCylinder19 21
+    400404: pCylinder19 22
+    400406: pCylinder19 23
+    400408: pCylinder19 24
+    400410: pCylinder19 25
+    400412: pCylinder19 26
+    400414: pCylinder19 27
+    400416: pCylinder19 3
+    400418: pCylinder19 4
+    400420: pCylinder19 5
+    400422: pCylinder19 6
+    400424: pCylinder19 7
+    400426: pCylinder19 8
+    400428: pCylinder19 9
+    400430: pCylinder6
+    400432: pCylinder6 1
+    400434: pCylinder6 2
+    400436: pCylinder6 3
+    400438: pCylinder6 4
+    400440: pCylinder7
+    400442: pCylinder7 1
+    400444: pCylinder7 2
+    400446: pCylinder7 3
+    400448: pCylinder8
+    400450: pCylinder8 1
+    400452: pCylinder8 2
+    400454: pCylinder8 3
+    400456: pCylinder8 4
+    400458: polySurface10
+    400460: polySurface12
+    400462: polySurface14
+    400464: polySurface3
+    400466: polySurface6
+    400468: polySurface7
+    400470: polySurface9
+    400472: porch
+    400474: porch_frametop
+    400476: porchframe
+    400478: porchshelf
+    400480: roof
+    400482: roof 1
+    400484: roof 2
+    400486: roof 3
+    400488: roof 4
+    400490: roof 5
+    400492: roof1
+    400494: roof1 1
+    400496: roof1 2
+    400498: roof10
+    400500: roof11
+    400502: roof12
+    400504: roof14
+    400506: roof2
+    400508: roof2 1
+    400510: roof3
+    400512: roof3 1
+    400514: roof5
+    400516: roof6
+    400518: roof7
+    400520: roof8
+    400522: roof9
+    400524: roof_main
+    400526: roof_upper
+    400528: roofslats
+    400530: roofslats 1
+    400532: roofslats 2
+    400534: roofslats1
+    400536: roomframe
+    400538: roomframe_bedroom
+    400540: screendoor
+    400542: screendoor1
+    400544: screenglass1
+    400546: screenglass1 1
+    400548: shutter
+    400550: shutter 1
+    400552: shutter 10
+    400554: shutter 11
+    400556: shutter 12
+    400558: shutter 13
+    400560: shutter 2
+    400562: shutter 3
+    400564: shutter 4
+    400566: shutter 5
+    400568: shutter 6
+    400570: shutter 7
+    400572: shutter 8
+    400574: shutter 9
+    400576: shutter1
+    400578: shutter1 1
+    400580: shutter1 10
+    400582: shutter1 11
+    400584: shutter1 12
+    400586: shutter1 13
+    400588: shutter1 2
+    400590: shutter1 3
+    400592: shutter1 4
+    400594: shutter1 5
+    400596: shutter1 6
+    400598: shutter1 7
+    400600: shutter1 8
+    400602: shutter1 9
+    400604: shutters
+    400606: shutters1
+    400608: shutters2
+    400610: shutters3
+    400612: shutters4
+    400614: shutters5
+    400616: shutters6
+    400618: shutters6 1
+    400620: shutters6 2
+    400622: shutters6 3
+    400624: shutters6 4
+    400626: shutters6 5
+    400628: shutters7
+    400630: shutters8
+    400632: step
+    400634: welcomemat
+    400636: window_planks
+    400638: window_planks1
+    400640: window_small
+    400642: window_small1
+    400644: window_small2
+    400646: window_small3
+    400648: window_small4
+    400650: window_small5
+    400652: windowframe
+    400654: windows
+    2100000: grey_stone_new
+    2100002: road_white_new
+    2100004: brown_furnishingwood_new
+    2100006: white_cream_new
+    2100008: glass
+    2100010: metal_dark_new
+    2100012: green_door_new
+    2100014: white_walls_new
+    2100016: glass_opaque_new
+    2100018: grey_screen
+    2100020: metal_generic_new
+    2100022: roof_stone_new
+    2100024: pasted__white
+    2100026: lambert1
+    2100028: pasted__glass1_opaque
+    2300000: bottom
+    2300002: bottom 1
+    2300004: chimney
+    2300006: clapboardbase
+    2300008: clapboardbase1
+    2300010: clapboardbase10
+    2300012: clapboardbase11
+    2300014: clapboardbase12
+    2300016: clapboardbase14
+    2300018: clapboardbase15
+    2300020: clapboardbase16
+    2300022: clapboardbase17
+    2300024: clapboardbase18
+    2300026: clapboardbase2
+    2300028: clapboardbase20
+    2300030: clapboardbase21
+    2300032: clapboardbase22
+    2300034: clapboardbase23
+    2300036: clapboardbase24
+    2300038: clapboardbase29
+    2300040: clapboardbase30
+    2300042: clapboardbase31
+    2300044: clapboardbase32
+    2300046: clapboardbase38
+    2300048: clapboardbase4
+    2300050: clapboardbase5
+    2300052: clapboardbase6
+    2300054: clapboardbase7
+    2300056: clapboardbase8
+    2300058: clapboardbase9
+    2300060: door_main 1
+    2300062: door_main 2
+    2300064: door_main_frame
+    2300066: door_main_frame 1
+    2300068: doorhandle
+    2300070: doorhandle 1
+    2300072: doorhandle1
+    2300074: doorhandle1 1
+    2300076: glass1
+    2300078: glass1 1
+    2300080: hinge4
+    2300082: hinge5
+    2300084: hinge5 1
+    2300086: hinge6
+    2300088: hinge6 1
+    2300090: hinge7
+    2300092: hinge7 1
+    2300094: hinge8
+    2300096: hinge8 1
+    2300098: kitchen_ceiling 1
+    2300100: kitchen_frame
+    2300102: lamp 1
+    2300104: lamp 2
+    2300106: livingroom 1
+    2300108: office 1
+    2300110: pasted__pCube684
+    2300112: pasted__pCube684 1
+    2300114: pasted__pCube684 2
+    2300116: pasted__pCube684 3
+    2300118: pasted__pCube684 4
+    2300120: pasted__pCube685
+    2300122: pasted__pCube685 1
+    2300124: pasted__pCube685 2
+    2300126: pasted__pCube685 3
+    2300128: pasted__pCube685 4
+    2300130: pCube10
+    2300132: pCube100
+    2300134: pCube101
+    2300136: pCube102
+    2300138: pCube103
+    2300140: pCube104
+    2300142: pCube105
+    2300144: pCube106
+    2300146: pCube106 1
+    2300148: pCube106 2
+    2300150: pCube106 3
+    2300152: pCube106 4
+    2300154: pCube106 5
+    2300156: pCube108
+    2300158: pCube109
+    2300160: pCube11
+    2300162: pCube110
+    2300164: pCube113
+    2300166: pCube114
+    2300168: pCube115
+    2300170: pCube116
+    2300172: pCube117
+    2300174: pCube118
+    2300176: pCube119
+    2300178: pCube12
+    2300180: pCube13
+    2300182: pCube14
+    2300184: pCube15
+    2300186: pCube18
+    2300188: pCube20
+    2300190: pCube21
+    2300192: pCube42
+    2300194: pCube44
+    2300196: pCube44 1
+    2300198: pCube44 2
+    2300200: pCube44 3
+    2300202: pCube45
+    2300204: pCube45 1
+    2300206: pCube45 2
+    2300208: pCube45 3
+    2300210: pCube46
+    2300212: pCube46 1
+    2300214: pCube46 2
+    2300216: pCube46 3
+    2300218: pCube48
+    2300220: pCube53
+    2300222: pCube57
+    2300224: pCube62
+    2300226: pCube63
+    2300228: pCube64
+    2300230: pCube64 1
+    2300232: pCube64 2
+    2300234: pCube64 3
+    2300236: pCube91
+    2300238: pCube91 1
+    2300240: pCube91 2
+    2300242: pCube91 3
+    2300244: pCube92
+    2300246: pCube93
+    2300248: pCube94
+    2300250: pCube95
+    2300252: pCylinder18
+    2300254: pCylinder18 1
+    2300256: pCylinder18 10
+    2300258: pCylinder18 11
+    2300260: pCylinder18 12
+    2300262: pCylinder18 13
+    2300264: pCylinder18 14
+    2300266: pCylinder18 15
+    2300268: pCylinder18 16
+    2300270: pCylinder18 17
+    2300272: pCylinder18 18
+    2300274: pCylinder18 19
+    2300276: pCylinder18 2
+    2300278: pCylinder18 20
+    2300280: pCylinder18 21
+    2300282: pCylinder18 22
+    2300284: pCylinder18 23
+    2300286: pCylinder18 24
+    2300288: pCylinder18 25
+    2300290: pCylinder18 26
+    2300292: pCylinder18 27
+    2300294: pCylinder18 3
+    2300296: pCylinder18 4
+    2300298: pCylinder18 5
+    2300300: pCylinder18 6
+    2300302: pCylinder18 7
+    2300304: pCylinder18 8
+    2300306: pCylinder18 9
+    2300308: pCylinder19
+    2300310: pCylinder19 1
+    2300312: pCylinder19 10
+    2300314: pCylinder19 11
+    2300316: pCylinder19 12
+    2300318: pCylinder19 13
+    2300320: pCylinder19 14
+    2300322: pCylinder19 15
+    2300324: pCylinder19 16
+    2300326: pCylinder19 17
+    2300328: pCylinder19 18
+    2300330: pCylinder19 19
+    2300332: pCylinder19 2
+    2300334: pCylinder19 20
+    2300336: pCylinder19 21
+    2300338: pCylinder19 22
+    2300340: pCylinder19 23
+    2300342: pCylinder19 24
+    2300344: pCylinder19 25
+    2300346: pCylinder19 26
+    2300348: pCylinder19 27
+    2300350: pCylinder19 3
+    2300352: pCylinder19 4
+    2300354: pCylinder19 5
+    2300356: pCylinder19 6
+    2300358: pCylinder19 7
+    2300360: pCylinder19 8
+    2300362: pCylinder19 9
+    2300364: pCylinder6
+    2300366: pCylinder6 1
+    2300368: pCylinder6 2
+    2300370: pCylinder6 3
+    2300372: pCylinder6 4
+    2300374: pCylinder7
+    2300376: pCylinder7 1
+    2300378: pCylinder7 2
+    2300380: pCylinder7 3
+    2300382: pCylinder8
+    2300384: pCylinder8 1
+    2300386: pCylinder8 2
+    2300388: pCylinder8 3
+    2300390: pCylinder8 4
+    2300392: polySurface10
+    2300394: polySurface12
+    2300396: polySurface14
+    2300398: polySurface3
+    2300400: polySurface6
+    2300402: polySurface7
+    2300404: polySurface9
+    2300406: porch
+    2300408: porch_frametop
+    2300410: porchframe
+    2300412: porchshelf
+    2300414: roof 1
+    2300416: roof 2
+    2300418: roof 3
+    2300420: roof 4
+    2300422: roof 5
+    2300424: roof1
+    2300426: roof1 1
+    2300428: roof1 2
+    2300430: roof10
+    2300432: roof11
+    2300434: roof12
+    2300436: roof14
+    2300438: roof2
+    2300440: roof2 1
+    2300442: roof3
+    2300444: roof3 1
+    2300446: roof5
+    2300448: roof8
+    2300450: roof9
+    2300452: roofslats
+    2300454: roofslats 1
+    2300456: roofslats 2
+    2300458: roofslats1
+    2300460: roomframe_bedroom
+    2300462: screenglass1
+    2300464: screenglass1 1
+    2300466: shutter
+    2300468: shutter 1
+    2300470: shutter 10
+    2300472: shutter 11
+    2300474: shutter 12
+    2300476: shutter 13
+    2300478: shutter 2
+    2300480: shutter 3
+    2300482: shutter 4
+    2300484: shutter 5
+    2300486: shutter 6
+    2300488: shutter 7
+    2300490: shutter 8
+    2300492: shutter 9
+    2300494: shutter1
+    2300496: shutter1 1
+    2300498: shutter1 10
+    2300500: shutter1 11
+    2300502: shutter1 12
+    2300504: shutter1 13
+    2300506: shutter1 2
+    2300508: shutter1 3
+    2300510: shutter1 4
+    2300512: shutter1 5
+    2300514: shutter1 6
+    2300516: shutter1 7
+    2300518: shutter1 8
+    2300520: shutter1 9
+    2300522: step
+    2300524: welcomemat
+    2300526: window_planks
+    2300528: windowframe
+    3300000: bottom
+    3300002: bottom 1
+    3300004: chimney
+    3300006: clapboardbase
+    3300008: clapboardbase1
+    3300010: clapboardbase10
+    3300012: clapboardbase11
+    3300014: clapboardbase12
+    3300016: clapboardbase14
+    3300018: clapboardbase15
+    3300020: clapboardbase16
+    3300022: clapboardbase17
+    3300024: clapboardbase18
+    3300026: clapboardbase2
+    3300028: clapboardbase20
+    3300030: clapboardbase21
+    3300032: clapboardbase22
+    3300034: clapboardbase23
+    3300036: clapboardbase24
+    3300038: clapboardbase29
+    3300040: clapboardbase30
+    3300042: clapboardbase31
+    3300044: clapboardbase32
+    3300046: clapboardbase38
+    3300048: clapboardbase4
+    3300050: clapboardbase5
+    3300052: clapboardbase6
+    3300054: clapboardbase7
+    3300056: clapboardbase8
+    3300058: clapboardbase9
+    3300060: door_main 1
+    3300062: door_main 2
+    3300064: door_main_frame
+    3300066: door_main_frame 1
+    3300068: doorhandle
+    3300070: doorhandle 1
+    3300072: doorhandle1
+    3300074: doorhandle1 1
+    3300076: glass1
+    3300078: glass1 1
+    3300080: hinge4
+    3300082: hinge5
+    3300084: hinge5 1
+    3300086: hinge6
+    3300088: hinge6 1
+    3300090: hinge7
+    3300092: hinge7 1
+    3300094: hinge8
+    3300096: hinge8 1
+    3300098: kitchen_ceiling 1
+    3300100: kitchen_frame
+    3300102: lamp 1
+    3300104: lamp 2
+    3300106: livingroom 1
+    3300108: office 1
+    3300110: pasted__pCube684
+    3300112: pasted__pCube684 1
+    3300114: pasted__pCube684 2
+    3300116: pasted__pCube684 3
+    3300118: pasted__pCube684 4
+    3300120: pasted__pCube685
+    3300122: pasted__pCube685 1
+    3300124: pasted__pCube685 2
+    3300126: pasted__pCube685 3
+    3300128: pasted__pCube685 4
+    3300130: pCube10
+    3300132: pCube100
+    3300134: pCube101
+    3300136: pCube102
+    3300138: pCube103
+    3300140: pCube104
+    3300142: pCube105
+    3300144: pCube106
+    3300146: pCube106 1
+    3300148: pCube106 2
+    3300150: pCube106 3
+    3300152: pCube106 4
+    3300154: pCube106 5
+    3300156: pCube108
+    3300158: pCube109
+    3300160: pCube11
+    3300162: pCube110
+    3300164: pCube113
+    3300166: pCube114
+    3300168: pCube115
+    3300170: pCube116
+    3300172: pCube117
+    3300174: pCube118
+    3300176: pCube119
+    3300178: pCube12
+    3300180: pCube13
+    3300182: pCube14
+    3300184: pCube15
+    3300186: pCube18
+    3300188: pCube20
+    3300190: pCube21
+    3300192: pCube42
+    3300194: pCube44
+    3300196: pCube44 1
+    3300198: pCube44 2
+    3300200: pCube44 3
+    3300202: pCube45
+    3300204: pCube45 1
+    3300206: pCube45 2
+    3300208: pCube45 3
+    3300210: pCube46
+    3300212: pCube46 1
+    3300214: pCube46 2
+    3300216: pCube46 3
+    3300218: pCube48
+    3300220: pCube53
+    3300222: pCube57
+    3300224: pCube62
+    3300226: pCube63
+    3300228: pCube64
+    3300230: pCube64 1
+    3300232: pCube64 2
+    3300234: pCube64 3
+    3300236: pCube91
+    3300238: pCube91 1
+    3300240: pCube91 2
+    3300242: pCube91 3
+    3300244: pCube92
+    3300246: pCube93
+    3300248: pCube94
+    3300250: pCube95
+    3300252: pCylinder18
+    3300254: pCylinder18 1
+    3300256: pCylinder18 10
+    3300258: pCylinder18 11
+    3300260: pCylinder18 12
+    3300262: pCylinder18 13
+    3300264: pCylinder18 14
+    3300266: pCylinder18 15
+    3300268: pCylinder18 16
+    3300270: pCylinder18 17
+    3300272: pCylinder18 18
+    3300274: pCylinder18 19
+    3300276: pCylinder18 2
+    3300278: pCylinder18 20
+    3300280: pCylinder18 21
+    3300282: pCylinder18 22
+    3300284: pCylinder18 23
+    3300286: pCylinder18 24
+    3300288: pCylinder18 25
+    3300290: pCylinder18 26
+    3300292: pCylinder18 27
+    3300294: pCylinder18 3
+    3300296: pCylinder18 4
+    3300298: pCylinder18 5
+    3300300: pCylinder18 6
+    3300302: pCylinder18 7
+    3300304: pCylinder18 8
+    3300306: pCylinder18 9
+    3300308: pCylinder19
+    3300310: pCylinder19 1
+    3300312: pCylinder19 10
+    3300314: pCylinder19 11
+    3300316: pCylinder19 12
+    3300318: pCylinder19 13
+    3300320: pCylinder19 14
+    3300322: pCylinder19 15
+    3300324: pCylinder19 16
+    3300326: pCylinder19 17
+    3300328: pCylinder19 18
+    3300330: pCylinder19 19
+    3300332: pCylinder19 2
+    3300334: pCylinder19 20
+    3300336: pCylinder19 21
+    3300338: pCylinder19 22
+    3300340: pCylinder19 23
+    3300342: pCylinder19 24
+    3300344: pCylinder19 25
+    3300346: pCylinder19 26
+    3300348: pCylinder19 27
+    3300350: pCylinder19 3
+    3300352: pCylinder19 4
+    3300354: pCylinder19 5
+    3300356: pCylinder19 6
+    3300358: pCylinder19 7
+    3300360: pCylinder19 8
+    3300362: pCylinder19 9
+    3300364: pCylinder6
+    3300366: pCylinder6 1
+    3300368: pCylinder6 2
+    3300370: pCylinder6 3
+    3300372: pCylinder6 4
+    3300374: pCylinder7
+    3300376: pCylinder7 1
+    3300378: pCylinder7 2
+    3300380: pCylinder7 3
+    3300382: pCylinder8
+    3300384: pCylinder8 1
+    3300386: pCylinder8 2
+    3300388: pCylinder8 3
+    3300390: pCylinder8 4
+    3300392: polySurface10
+    3300394: polySurface12
+    3300396: polySurface14
+    3300398: polySurface3
+    3300400: polySurface6
+    3300402: polySurface7
+    3300404: polySurface9
+    3300406: porch
+    3300408: porch_frametop
+    3300410: porchframe
+    3300412: porchshelf
+    3300414: roof 1
+    3300416: roof 2
+    3300418: roof 3
+    3300420: roof 4
+    3300422: roof 5
+    3300424: roof1
+    3300426: roof1 1
+    3300428: roof1 2
+    3300430: roof10
+    3300432: roof11
+    3300434: roof12
+    3300436: roof14
+    3300438: roof2
+    3300440: roof2 1
+    3300442: roof3
+    3300444: roof3 1
+    3300446: roof5
+    3300448: roof8
+    3300450: roof9
+    3300452: roofslats
+    3300454: roofslats 1
+    3300456: roofslats 2
+    3300458: roofslats1
+    3300460: roomframe_bedroom
+    3300462: screenglass1
+    3300464: screenglass1 1
+    3300466: shutter
+    3300468: shutter 1
+    3300470: shutter 10
+    3300472: shutter 11
+    3300474: shutter 12
+    3300476: shutter 13
+    3300478: shutter 2
+    3300480: shutter 3
+    3300482: shutter 4
+    3300484: shutter 5
+    3300486: shutter 6
+    3300488: shutter 7
+    3300490: shutter 8
+    3300492: shutter 9
+    3300494: shutter1
+    3300496: shutter1 1
+    3300498: shutter1 10
+    3300500: shutter1 11
+    3300502: shutter1 12
+    3300504: shutter1 13
+    3300506: shutter1 2
+    3300508: shutter1 3
+    3300510: shutter1 4
+    3300512: shutter1 5
+    3300514: shutter1 6
+    3300516: shutter1 7
+    3300518: shutter1 8
+    3300520: shutter1 9
+    3300522: step
+    3300524: welcomemat
+    3300526: window_planks
+    3300528: windowframe
+    4300000: polySurface3
+    4300002: porch_frametop
+    4300004: clapboardbase9
+    4300006: clapboardbase10
+    4300008: window_planks
+    4300010: hinge4
+    4300012: pCylinder8
+    4300014: pCylinder6
+    4300016: welcomemat
+    4300018: glass1
+    4300020: bottom
+    4300022: lamp
+    4300024: clapboardbase5
+    4300026: clapboardbase12
+    4300028: clapboardbase11
+    4300030: pCube42
+    4300032: porchshelf
+    4300034: pCube13
+    4300036: pCube48
+    4300038: pCube14
+    4300040: pCube15
+    4300042: pCube53
+    4300044: pCube102
+    4300046: door_main
+    4300048: screenglass1
+    4300050: hinge5
+    4300052: pCylinder8
+    4300054: pCylinder6
+    4300056: hinge8
+    4300058: pCylinder8
+    4300060: pCylinder6
+    4300062: doorhandle
+    4300064: pCube44
+    4300066: pCube45
+    4300068: pCube46
+    4300070: doorhandle1
+    4300072: pCube44
+    4300074: pCube45
+    4300076: pCube46
+    4300078: door_main_frame
+    4300080: hinge6
+    4300082: pCylinder7
+    4300084: hinge7
+    4300086: pCylinder7
+    4300088: clapboardbase4
+    4300090: clapboardbase2
+    4300092: clapboardbase
+    4300094: kitchen_frame
+    4300096: clapboardbase6
+    4300098: clapboardbase15
+    4300100: clapboardbase14
+    4300102: windowframe
+    4300104: polySurface6
+    4300106: polySurface7
+    4300108: polySurface9
+    4300110: polySurface10
+    4300112: polySurface12
+    4300114: polySurface14
+    4300116: pCube18
+    4300118: pCube10
+    4300120: pCube11
+    4300122: pCube12
+    4300124: door_main
+    4300126: screenglass1
+    4300128: hinge5
+    4300130: pCylinder8
+    4300132: pCylinder6
+    4300134: hinge8
+    4300136: pCylinder8
+    4300138: pCylinder6
+    4300140: doorhandle
+    4300142: pCube44
+    4300144: pCube45
+    4300146: pCube46
+    4300148: doorhandle1
+    4300150: pCube44
+    4300152: pCube45
+    4300154: pCube46
+    4300156: door_main_frame
+    4300158: hinge6
+    4300160: pCylinder7
+    4300162: hinge7
+    4300164: pCylinder7
+    4300166: clapboardbase23
+    4300168: clapboardbase24
+    4300170: porch
+    4300172: pCube62
+    4300174: pCube63
+    4300176: porchframe
+    4300178: roof2
+    4300180: roof3
+    4300182: pCube91
+    4300184: roof1
+    4300186: roof
+    4300188: pCube64
+    4300190: roofslats
+    4300192: pCube110
+    4300194: kitchen_ceiling
+    4300196: roof5
+    4300198: clapboardbase21
+    4300200: roomframe_bedroom
+    4300202: roof12
+    4300204: roof14
+    4300206: roof
+    4300208: roof9
+    4300210: roof10
+    4300212: roof11
+    4300214: clapboardbase8
+    4300216: clapboardbase7
+    4300218: pCube20
+    4300220: pCube21
+    4300222: office
+    4300224: pCube92
+    4300226: pCube93
+    4300228: pCube94
+    4300230: pCube113
+    4300232: livingroom
+    4300234: clapboardbase17
+    4300236: clapboardbase16
+    4300238: pCube57
+    4300240: clapboardbase22
+    4300242: clapboardbase31
+    4300244: pCube103
+    4300246: pCube104
+    4300248: clapboardbase32
+    4300250: pCube91
+    4300252: roof1
+    4300254: roof
+    4300256: pCube64
+    4300258: clapboardbase18
+    4300260: step
+    4300262: glass1
+    4300264: bottom
+    4300266: lamp
+    4300268: pCube91
+    4300270: roof
+    4300272: roof8
+    4300274: pCube64
+    4300276: roofslats
+    4300278: roof2
+    4300280: roof3
+    4300282: pCube91
+    4300284: roof1
+    4300286: roof
+    4300288: pCube64
+    4300290: roofslats
+    4300292: roofslats1
+    4300294: shutter
+    4300296: pCylinder19
+    4300298: pCylinder18
+    4300300: shutter1
+    4300302: pCylinder19
+    4300304: pCylinder18
+    4300306: chimney
+    4300308: pCube106
+    4300310: shutter
+    4300312: pCylinder19
+    4300314: pCylinder18
+    4300316: shutter1
+    4300318: pCylinder19
+    4300320: pCylinder18
+    4300322: pCube106
+    4300324: shutter
+    4300326: pCylinder19
+    4300328: pCylinder18
+    4300330: shutter1
+    4300332: pCylinder19
+    4300334: pCylinder18
+    4300336: pCube106
+    4300338: shutter
+    4300340: pCylinder19
+    4300342: pCylinder18
+    4300344: shutter1
+    4300346: pCylinder19
+    4300348: pCylinder18
+    4300350: pCube106
+    4300352: shutter
+    4300354: pCylinder19
+    4300356: pCylinder18
+    4300358: shutter1
+    4300360: pCylinder19
+    4300362: pCylinder18
+    4300364: pCube106
+    4300366: shutter
+    4300368: pCylinder19
+    4300370: pCylinder18
+    4300372: shutter1
+    4300374: pCylinder19
+    4300376: pCylinder18
+    4300378: pCube106
+    4300380: shutter
+    4300382: pCylinder19
+    4300384: pCylinder18
+    4300386: shutter1
+    4300388: pCylinder19
+    4300390: pCylinder18
+    4300392: shutter
+    4300394: pCylinder19
+    4300396: pCylinder18
+    4300398: shutter1
+    4300400: pCylinder19
+    4300402: pCylinder18
+    4300404: shutter
+    4300406: pCylinder19
+    4300408: pCylinder18
+    4300410: shutter1
+    4300412: pCylinder19
+    4300414: pCylinder18
+    4300416: shutter
+    4300418: pCylinder19
+    4300420: pCylinder18
+    4300422: shutter1
+    4300424: pCylinder19
+    4300426: pCylinder18
+    4300428: shutter
+    4300430: pCylinder19
+    4300432: pCylinder18
+    4300434: shutter1
+    4300436: pCylinder19
+    4300438: pCylinder18
+    4300440: shutter
+    4300442: pCylinder19
+    4300444: pCylinder18
+    4300446: shutter1
+    4300448: pCylinder19
+    4300450: pCylinder18
+    4300452: pasted__pCube684
+    4300454: pasted__pCube685
+    4300456: pasted__pCube684
+    4300458: pasted__pCube685
+    4300460: pasted__pCube684
+    4300462: pasted__pCube685
+    4300464: pasted__pCube684
+    4300466: pasted__pCube685
+    4300468: pasted__pCube684
+    4300470: pasted__pCube685
+    4300472: pCube105
+    4300474: pCube109
+    4300476: pCube108
+    4300478: shutter
+    4300480: pCylinder19
+    4300482: pCylinder18
+    4300484: shutter1
+    4300486: pCylinder19
+    4300488: pCylinder18
+    4300490: shutter
+    4300492: pCylinder19
+    4300494: pCylinder18
+    4300496: shutter1
+    4300498: pCylinder19
+    4300500: pCylinder18
+    4300502: clapboardbase20
+    4300504: clapboardbase29
+    4300506: clapboardbase30
+    4300508: clapboardbase38
+    4300510: clapboardbase1
+    4300512: pCube114
+    4300514: pCube115
+    4300516: pCube116
+    4300518: pCube117
+    4300520: pCube118
+    4300522: pCube119
+    4300524: pCube100
+    4300526: pCube101
+    4300528: pCube95
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

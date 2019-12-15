@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 35caa54c35ba444ca98754bc96f34851
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: door_inside
+    100004: door_outside
+    100006: doorknob_small
+    100008: foldingdoors
+    100010: frame
+    100012: hingedoor
+    100014: hingedoor1
+    100016: hingedoor2
+    100018: hingedoor3
+    100020: hingeframe
+    100022: hingeframe1
+    100024: hingeframe2
+    100026: hingeframe3
+    100028: pCylinder10
+    100030: pCylinder9
+    100032: pCylinder9 1
+    100034: pCylinder9 2
+    400000: //RootNode
+    400002: door_inside
+    400004: door_outside
+    400006: doorknob_small
+    400008: foldingdoors
+    400010: frame
+    400012: hingedoor
+    400014: hingedoor1
+    400016: hingedoor2
+    400018: hingedoor3
+    400020: hingeframe
+    400022: hingeframe1
+    400024: hingeframe2
+    400026: hingeframe3
+    400028: pCylinder10
+    400030: pCylinder9
+    400032: pCylinder9 1
+    400034: pCylinder9 2
+    2100000: white_walls_new
+    2100002: metal_generic_new
+    2300000: door_inside
+    2300002: door_outside
+    2300004: doorknob_small
+    2300006: frame
+    2300008: hingedoor
+    2300010: hingedoor1
+    2300012: hingedoor2
+    2300014: hingedoor3
+    2300016: hingeframe
+    2300018: hingeframe1
+    2300020: hingeframe2
+    2300022: hingeframe3
+    2300024: pCylinder10
+    2300026: pCylinder9
+    2300028: pCylinder9 1
+    2300030: pCylinder9 2
+    3300000: door_inside
+    3300002: door_outside
+    3300004: doorknob_small
+    3300006: frame
+    3300008: hingedoor
+    3300010: hingedoor1
+    3300012: hingedoor2
+    3300014: hingedoor3
+    3300016: hingeframe
+    3300018: hingeframe1
+    3300020: hingeframe2
+    3300022: hingeframe3
+    3300024: pCylinder10
+    3300026: pCylinder9
+    3300028: pCylinder9 1
+    3300030: pCylinder9 2
+    4300000: door_inside
+    4300002: doorknob_small
+    4300004: hingeframe3
+    4300006: pCylinder10
+    4300008: hingeframe2
+    4300010: pCylinder9
+    4300012: door_outside
+    4300014: hingedoor
+    4300016: pCylinder9
+    4300018: hingedoor1
+    4300020: pCylinder9
+    4300022: hingedoor3
+    4300024: hingedoor2
+    4300026: frame
+    4300028: hingeframe
+    4300030: hingeframe1
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -6,21 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/HouseScene.unity
+    path: Assets/Scenes/old/HouseScene.unity
     guid: 4b1a40aec8e264d8e9718d85efddb8bb
   - enabled: 0
-    path: Assets/Scenes/EgyptScene.unity
+    path: Assets/Scenes/old/EgyptScene.unity
     guid: 5a32d95e494c946efb388087b38f849a
   - enabled: 0
-    path: Assets/Scenes/SupermarketScene.unity
+    path: Assets/Scenes/old/SupermarketScene.unity
     guid: f592da5fcfb2d4bc3b9a3440ea6e44de
   - enabled: 0
-    path: Assets/Scenes/Egyptmart.unity
+    path: Assets/Scenes/old/Egyptmart.unity
     guid: 2688fafe331db4dc896d46f121349569
   - enabled: 1
     path: Assets/Scenes/Vignettes.unity
     guid: ec322cb06de8648ab8666fb61079056b
+  - enabled: 0
+    path: Assets/Scenes/MainScene_test.unity
+    guid: 7039584de13414255be034107a1301f6
   - enabled: 1
     path: Assets/Scenes/MainScene.unity
-    guid: 7039584de13414255be034107a1301f6
+    guid: fb86ec455f72d40a89d86eed69db6b41
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: e19b3062c344045baa74c5c58c87f000
+  - enabled: 1
+    path: Assets/Scenes/Library.unity
+    guid: 6a0918dedf732456fb0c6719f7c75125
   m_configObjects: {}

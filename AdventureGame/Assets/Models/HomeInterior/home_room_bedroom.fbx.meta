@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: eef4947e2ab8d464491127f219abe752
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: floor
+    100002: //RootNode
+    100004: pasted__pCube684
+    100006: pasted__pCube685
+    100008: pCube173
+    100010: pCube174
+    100012: pCube175
+    100014: pCube178
+    100016: pCube181
+    100018: pCube182
+    100020: pCube183
+    100022: wallplanks
+    400000: floor
+    400002: //RootNode
+    400004: pasted__pCube684
+    400006: pasted__pCube685
+    400008: pCube173
+    400010: pCube174
+    400012: pCube175
+    400014: pCube178
+    400016: pCube181
+    400018: pCube182
+    400020: pCube183
+    400022: wallplanks
+    2100000: brown_furni_darker_new
+    2100002: white_cream_new
+    2100004: brown_furnishingwood_new
+    2100006: pasted__glass1_opaque
+    2300000: floor
+    2300002: pasted__pCube684
+    2300004: pasted__pCube685
+    2300006: pCube173
+    2300008: pCube174
+    2300010: pCube175
+    2300012: pCube178
+    2300014: pCube181
+    2300016: pCube182
+    2300018: pCube183
+    2300020: wallplanks
+    3300000: floor
+    3300002: pasted__pCube684
+    3300004: pasted__pCube685
+    3300006: pCube173
+    3300008: pCube174
+    3300010: pCube175
+    3300012: pCube178
+    3300014: pCube181
+    3300016: pCube182
+    3300018: pCube183
+    3300020: wallplanks
+    4300000: pCube175
+    4300002: floor
+    4300004: pCube181
+    4300006: wallplanks
+    4300008: pCube182
+    4300010: pCube174
+    4300012: pCube173
+    4300014: pasted__pCube685
+    4300016: pasted__pCube684
+    4300018: pCube178
+    4300020: pCube183
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

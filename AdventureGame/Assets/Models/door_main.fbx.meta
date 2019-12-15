@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 68ff5de1720204bbf87550b5f6e7b3d2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: door_main
+    100004: door_main_frame
+    100006: doorhandle
+    100008: doorhandle1
+    100010: hinge5
+    100012: hinge6
+    100014: hinge7
+    100016: hinge8
+    100018: pCube44
+    100020: pCube44 1
+    100022: pCube45
+    100024: pCube45 1
+    100026: pCube46
+    100028: pCube46 1
+    100030: pCylinder6
+    100032: pCylinder6 1
+    100034: pCylinder7
+    100036: pCylinder7 1
+    100038: pCylinder8
+    100040: pCylinder8 1
+    100042: screenglass1
+    100044: void
+    400000: //RootNode
+    400002: door_main
+    400004: door_main_frame
+    400006: doorhandle
+    400008: doorhandle1
+    400010: hinge5
+    400012: hinge6
+    400014: hinge7
+    400016: hinge8
+    400018: pCube44
+    400020: pCube44 1
+    400022: pCube45
+    400024: pCube45 1
+    400026: pCube46
+    400028: pCube46 1
+    400030: pCylinder6
+    400032: pCylinder6 1
+    400034: pCylinder7
+    400036: pCylinder7 1
+    400038: pCylinder8
+    400040: pCylinder8 1
+    400042: screenglass1
+    400044: void
+    2100000: green_door_new
+    2100002: metal_dark_new
+    2300000: door_main
+    2300002: door_main_frame
+    2300004: doorhandle
+    2300006: doorhandle1
+    2300008: hinge5
+    2300010: hinge6
+    2300012: hinge7
+    2300014: hinge8
+    2300016: pCube44
+    2300018: pCube44 1
+    2300020: pCube45
+    2300022: pCube45 1
+    2300024: pCube46
+    2300026: pCube46 1
+    2300028: pCylinder6
+    2300030: pCylinder6 1
+    2300032: pCylinder7
+    2300034: pCylinder7 1
+    2300036: pCylinder8
+    2300038: pCylinder8 1
+    2300040: screenglass1
+    2300042: void
+    3300000: door_main
+    3300002: door_main_frame
+    3300004: doorhandle
+    3300006: doorhandle1
+    3300008: hinge5
+    3300010: hinge6
+    3300012: hinge7
+    3300014: hinge8
+    3300016: pCube44
+    3300018: pCube44 1
+    3300020: pCube45
+    3300022: pCube45 1
+    3300024: pCube46
+    3300026: pCube46 1
+    3300028: pCylinder6
+    3300030: pCylinder6 1
+    3300032: pCylinder7
+    3300034: pCylinder7 1
+    3300036: pCylinder8
+    3300038: pCylinder8 1
+    3300040: screenglass1
+    3300042: void
+    4300000: door_main
+    4300002: screenglass1
+    4300004: hinge5
+    4300006: pCylinder8
+    4300008: pCylinder6
+    4300010: hinge8
+    4300012: pCylinder8
+    4300014: pCylinder6
+    4300016: doorhandle
+    4300018: pCube44
+    4300020: pCube45
+    4300022: pCube46
+    4300024: doorhandle1
+    4300026: pCube44
+    4300028: pCube45
+    4300030: pCube46
+    4300032: door_main_frame
+    4300034: hinge6
+    4300036: pCylinder7
+    4300038: hinge7
+    4300040: pCylinder7
+    4300042: void
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

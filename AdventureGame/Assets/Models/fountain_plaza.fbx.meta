@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 83368cda77804470e824090b65f8c4a1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: fountain
+    100002: //RootNode
+    100004: fountainwater
+    100006: group3
+    100008: group4
+    100010: pCube992
+    100012: pCube993
+    100014: pCube993 1
+    100016: pCube994
+    100018: pCube994 1
+    100020: pCube995
+    100022: pCube995 1
+    100024: pCube996
+    100026: pCube996 1
+    100028: pCylinder10
+    100030: pCylinder8
+    100032: plaza
+    100034: stairs
+    100036: streetlamp_fancy
+    100038: streetlamp_fancy1
+    400000: fountain
+    400002: //RootNode
+    400004: fountainwater
+    400006: group3
+    400008: group4
+    400010: pCube992
+    400012: pCube993
+    400014: pCube993 1
+    400016: pCube994
+    400018: pCube994 1
+    400020: pCube995
+    400022: pCube995 1
+    400024: pCube996
+    400026: pCube996 1
+    400028: pCylinder10
+    400030: pCylinder8
+    400032: plaza
+    400034: stairs
+    400036: streetlamp_fancy
+    400038: streetlamp_fancy1
+    2100000: grey_stone
+    2100002: grey_stone_darker
+    2100004: water_blinn
+    2100006: metal_generic_darker
+    2100008: light_1
+    2300000: fountainwater
+    2300002: pCube992
+    2300004: pCube993
+    2300006: pCube993 1
+    2300008: pCube994
+    2300010: pCube994 1
+    2300012: pCube995
+    2300014: pCube995 1
+    2300016: pCube996
+    2300018: pCube996 1
+    2300020: pCylinder10
+    2300022: pCylinder8
+    2300024: plaza
+    2300026: streetlamp_fancy
+    2300028: streetlamp_fancy1
+    3300000: fountainwater
+    3300002: pCube992
+    3300004: pCube993
+    3300006: pCube993 1
+    3300008: pCube994
+    3300010: pCube994 1
+    3300012: pCube995
+    3300014: pCube995 1
+    3300016: pCube996
+    3300018: pCube996 1
+    3300020: pCylinder10
+    3300022: pCylinder8
+    3300024: plaza
+    3300026: streetlamp_fancy
+    3300028: streetlamp_fancy1
+    4300000: plaza
+    4300002: pCylinder8
+    4300004: fountainwater
+    4300006: pCylinder10
+    4300008: pCube992
+    4300010: pCube994
+    4300012: pCube993
+    4300014: pCube994
+    4300016: pCube993
+    4300018: streetlamp_fancy
+    4300020: pCube995
+    4300022: pCube996
+    4300024: streetlamp_fancy1
+    4300026: pCube995
+    4300028: pCube996
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

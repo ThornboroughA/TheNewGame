@@ -39,20 +39,26 @@ public class CameraRoomTransition : MonoBehaviour
     }
     private void OnTriggerEnter(Collider other)
     {
-        if (sceneCamera && rotationEmpty)
+        if (other.transform.CompareTag("Player"))
         {
-            transitionBool = true;
-        }
-        else
-        {
-            Debug.Log("assign camera and or rotationEmpty");
+            if (sceneCamera && rotationEmpty)
+            {
+                transitionBool = true;
+            }
+            else
+            {
+                Debug.Log("assign camera and or rotationEmpty");
+            }
         }
         
     }
     private void OnTriggerExit(Collider other)
     {
-        transitionBool = false;
-        //Debug.Log(rotationEmpty + "collider exit");
+        if (other.transform.CompareTag("Player"))
+        {
+            transitionBool = false;
+            //Debug.Log(rotationEmpty + "collider exit");
+        }
     }
 
 
