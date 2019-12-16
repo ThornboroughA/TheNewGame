@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 0dc0339eca24c4f9a8e5b16e07f31194
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: airplanesection_generic1
+    100004: airplanesection_generic2
+    100006: airplanesection_generic3
+    100008: bathroom
+    100010: door
+    100012: floor
+    100014: overhead
+    100016: overhead 1
+    100018: overhead 2
+    100020: pCube38
+    100022: pCube38 1
+    100024: pCube38 2
+    100026: pCube42
+    100028: pCube42 1
+    100030: pCube42 2
+    100032: pCube43
+    100034: pCube43 1
+    100036: pCube43 2
+    100038: pCube44
+    100040: pCube44 1
+    100042: pCube44 2
+    100044: pCube61
+    100046: pCube63
+    100048: pCube64
+    100050: pCube64 1
+    100052: pCube64 2
+    100054: pCube64 3
+    100056: pCube64 4
+    100058: pCube64 5
+    100060: pCube64 6
+    100062: pCube64 7
+    100064: pCube65
+    100066: pCube65 1
+    100068: pCube65 2
+    100070: pCube65 3
+    100072: pCube65 4
+    100074: pCube65 5
+    100076: pCube65 6
+    100078: pCube65 7
+    100080: pCube66
+    100082: pCube66 1
+    100084: pCube66 2
+    100086: pCube66 3
+    100088: pCube66 4
+    100090: pCube66 5
+    100092: pCube66 6
+    100094: pCube66 7
+    100096: pCube67
+    100098: pCube67 1
+    100100: pCube67 2
+    100102: pCube67 3
+    100104: pCube68
+    100106: pCube68 1
+    100108: pCube68 2
+    100110: pCube68 3
+    100112: pCube68 4
+    100114: pCube68 5
+    100116: pCube68 6
+    100118: pCube68 7
+    100120: pCube69
+    100122: pCube69 1
+    100124: pCube69 2
+    100126: pCube69 3
+    100128: pCube70
+    100130: pCube70 1
+    100132: pCube70 2
+    100134: pCube70 3
+    100136: pCube70 4
+    100138: pCube70 5
+    100140: pCube70 6
+    100142: pCube70 7
+    100144: pCube71
+    100146: pCube71 1
+    100148: pCube71 2
+    100150: pCube71 3
+    100152: pCube72
+    100154: pCube72 1
+    100156: pCube72 2
+    100158: pCube72 3
+    100160: pCube73
+    100162: pCube74
+    100164: pCube75
+    100166: pCube76
+    100168: plane_shell
+    100170: seat_firstclass
+    100172: seat_firstclass 1
+    100174: seat_firstclass 2
+    100176: seat_firstclass 3
+    100178: seat_firstclass1
+    100180: seat_firstclass1 1
+    100182: seat_firstclass1 2
+    100184: seat_firstclass1 3
+    100186: seats_firstcalss1
+    100188: seats_firstcalss2
+    100190: seats_firstcalss3
+    100192: seats_firstcalss4
+    100194: wall_pilot
+    100196: wallthing
+    100198: window1
+    100200: window1 1
+    100202: window1 2
+    100204: window2
+    100206: window2 1
+    100208: window2 2
+    400000: //RootNode
+    400002: airplanesection_generic1
+    400004: airplanesection_generic2
+    400006: airplanesection_generic3
+    400008: bathroom
+    400010: door
+    400012: floor
+    400014: overhead
+    400016: overhead 1
+    400018: overhead 2
+    400020: pCube38
+    400022: pCube38 1
+    400024: pCube38 2
+    400026: pCube42
+    400028: pCube42 1
+    400030: pCube42 2
+    400032: pCube43
+    400034: pCube43 1
+    400036: pCube43 2
+    400038: pCube44
+    400040: pCube44 1
+    400042: pCube44 2
+    400044: pCube61
+    400046: pCube63
+    400048: pCube64
+    400050: pCube64 1
+    400052: pCube64 2
+    400054: pCube64 3
+    400056: pCube64 4
+    400058: pCube64 5
+    400060: pCube64 6
+    400062: pCube64 7
+    400064: pCube65
+    400066: pCube65 1
+    400068: pCube65 2
+    400070: pCube65 3
+    400072: pCube65 4
+    400074: pCube65 5
+    400076: pCube65 6
+    400078: pCube65 7
+    400080: pCube66
+    400082: pCube66 1
+    400084: pCube66 2
+    400086: pCube66 3
+    400088: pCube66 4
+    400090: pCube66 5
+    400092: pCube66 6
+    400094: pCube66 7
+    400096: pCube67
+    400098: pCube67 1
+    400100: pCube67 2
+    400102: pCube67 3
+    400104: pCube68
+    400106: pCube68 1
+    400108: pCube68 2
+    400110: pCube68 3
+    400112: pCube68 4
+    400114: pCube68 5
+    400116: pCube68 6
+    400118: pCube68 7
+    400120: pCube69
+    400122: pCube69 1
+    400124: pCube69 2
+    400126: pCube69 3
+    400128: pCube70
+    400130: pCube70 1
+    400132: pCube70 2
+    400134: pCube70 3
+    400136: pCube70 4
+    400138: pCube70 5
+    400140: pCube70 6
+    400142: pCube70 7
+    400144: pCube71
+    400146: pCube71 1
+    400148: pCube71 2
+    400150: pCube71 3
+    400152: pCube72
+    400154: pCube72 1
+    400156: pCube72 2
+    400158: pCube72 3
+    400160: pCube73
+    400162: pCube74
+    400164: pCube75
+    400166: pCube76
+    400168: plane_shell
+    400170: seat_firstclass
+    400172: seat_firstclass 1
+    400174: seat_firstclass 2
+    400176: seat_firstclass 3
+    400178: seat_firstclass1
+    400180: seat_firstclass1 1
+    400182: seat_firstclass1 2
+    400184: seat_firstclass1 3
+    400186: seats_firstcalss1
+    400188: seats_firstcalss2
+    400190: seats_firstcalss3
+    400192: seats_firstcalss4
+    400194: wall_pilot
+    400196: wallthing
+    400198: window1
+    400200: window1 1
+    400202: window1 2
+    400204: window2
+    400206: window2 1
+    400208: window2 2
+    2100000: blue_carpet
+    2100002: white_planepaint
+    2100004: metal_chrome
+    2100006: lighter_cream_plastic
+    2100008: cream_plastic
+    2100010: darker_plastic
+    2100012: black_blinn
+    2100014: red_chair
+    2100016: cream_chair
+    2100018: blue_chair
+    2300000: airplanesection_generic1
+    2300002: airplanesection_generic2
+    2300004: airplanesection_generic3
+    2300006: bathroom
+    2300008: door
+    2300010: floor
+    2300012: overhead
+    2300014: overhead 1
+    2300016: overhead 2
+    2300018: pCube38
+    2300020: pCube38 1
+    2300022: pCube38 2
+    2300024: pCube42
+    2300026: pCube42 1
+    2300028: pCube42 2
+    2300030: pCube43
+    2300032: pCube43 1
+    2300034: pCube43 2
+    2300036: pCube44
+    2300038: pCube44 1
+    2300040: pCube44 2
+    2300042: pCube61
+    2300044: pCube63
+    2300046: pCube64
+    2300048: pCube64 1
+    2300050: pCube64 2
+    2300052: pCube64 3
+    2300054: pCube64 4
+    2300056: pCube64 5
+    2300058: pCube64 6
+    2300060: pCube64 7
+    2300062: pCube65
+    2300064: pCube65 1
+    2300066: pCube65 2
+    2300068: pCube65 3
+    2300070: pCube65 4
+    2300072: pCube65 5
+    2300074: pCube65 6
+    2300076: pCube65 7
+    2300078: pCube66
+    2300080: pCube66 1
+    2300082: pCube66 2
+    2300084: pCube66 3
+    2300086: pCube66 4
+    2300088: pCube66 5
+    2300090: pCube66 6
+    2300092: pCube66 7
+    2300094: pCube67
+    2300096: pCube67 1
+    2300098: pCube67 2
+    2300100: pCube67 3
+    2300102: pCube68
+    2300104: pCube68 1
+    2300106: pCube68 2
+    2300108: pCube68 3
+    2300110: pCube68 4
+    2300112: pCube68 5
+    2300114: pCube68 6
+    2300116: pCube68 7
+    2300118: pCube69
+    2300120: pCube69 1
+    2300122: pCube69 2
+    2300124: pCube69 3
+    2300126: pCube70
+    2300128: pCube70 1
+    2300130: pCube70 2
+    2300132: pCube70 3
+    2300134: pCube70 4
+    2300136: pCube70 5
+    2300138: pCube70 6
+    2300140: pCube70 7
+    2300142: pCube71
+    2300144: pCube71 1
+    2300146: pCube71 2
+    2300148: pCube71 3
+    2300150: pCube72
+    2300152: pCube72 1
+    2300154: pCube72 2
+    2300156: pCube72 3
+    2300158: pCube73
+    2300160: pCube74
+    2300162: pCube75
+    2300164: pCube76
+    2300166: plane_shell
+    2300168: wall_pilot
+    2300170: wallthing
+    2300172: window1
+    2300174: window1 1
+    2300176: window1 2
+    2300178: window2
+    2300180: window2 1
+    2300182: window2 2
+    3300000: airplanesection_generic1
+    3300002: airplanesection_generic2
+    3300004: airplanesection_generic3
+    3300006: bathroom
+    3300008: door
+    3300010: floor
+    3300012: overhead
+    3300014: overhead 1
+    3300016: overhead 2
+    3300018: pCube38
+    3300020: pCube38 1
+    3300022: pCube38 2
+    3300024: pCube42
+    3300026: pCube42 1
+    3300028: pCube42 2
+    3300030: pCube43
+    3300032: pCube43 1
+    3300034: pCube43 2
+    3300036: pCube44
+    3300038: pCube44 1
+    3300040: pCube44 2
+    3300042: pCube61
+    3300044: pCube63
+    3300046: pCube64
+    3300048: pCube64 1
+    3300050: pCube64 2
+    3300052: pCube64 3
+    3300054: pCube64 4
+    3300056: pCube64 5
+    3300058: pCube64 6
+    3300060: pCube64 7
+    3300062: pCube65
+    3300064: pCube65 1
+    3300066: pCube65 2
+    3300068: pCube65 3
+    3300070: pCube65 4
+    3300072: pCube65 5
+    3300074: pCube65 6
+    3300076: pCube65 7
+    3300078: pCube66
+    3300080: pCube66 1
+    3300082: pCube66 2
+    3300084: pCube66 3
+    3300086: pCube66 4
+    3300088: pCube66 5
+    3300090: pCube66 6
+    3300092: pCube66 7
+    3300094: pCube67
+    3300096: pCube67 1
+    3300098: pCube67 2
+    3300100: pCube67 3
+    3300102: pCube68
+    3300104: pCube68 1
+    3300106: pCube68 2
+    3300108: pCube68 3
+    3300110: pCube68 4
+    3300112: pCube68 5
+    3300114: pCube68 6
+    3300116: pCube68 7
+    3300118: pCube69
+    3300120: pCube69 1
+    3300122: pCube69 2
+    3300124: pCube69 3
+    3300126: pCube70
+    3300128: pCube70 1
+    3300130: pCube70 2
+    3300132: pCube70 3
+    3300134: pCube70 4
+    3300136: pCube70 5
+    3300138: pCube70 6
+    3300140: pCube70 7
+    3300142: pCube71
+    3300144: pCube71 1
+    3300146: pCube71 2
+    3300148: pCube71 3
+    3300150: pCube72
+    3300152: pCube72 1
+    3300154: pCube72 2
+    3300156: pCube72 3
+    3300158: pCube73
+    3300160: pCube74
+    3300162: pCube75
+    3300164: pCube76
+    3300166: plane_shell
+    3300168: wall_pilot
+    3300170: wallthing
+    3300172: window1
+    3300174: window1 1
+    3300176: window1 2
+    3300178: window2
+    3300180: window2 1
+    3300182: window2 2
+    4300000: floor
+    4300002: plane_shell
+    4300004: wall_pilot
+    4300006: wallthing
+    4300008: pCube63
+    4300010: door
+    4300012: pCube61
+    4300014: airplanesection_generic1
+    4300016: window1
+    4300018: pCube44
+    4300020: window2
+    4300022: pCube38
+    4300024: overhead
+    4300026: pCube42
+    4300028: pCube43
+    4300030: airplanesection_generic2
+    4300032: window1
+    4300034: pCube44
+    4300036: window2
+    4300038: pCube38
+    4300040: overhead
+    4300042: pCube42
+    4300044: pCube43
+    4300046: airplanesection_generic3
+    4300048: window1
+    4300050: pCube44
+    4300052: window2
+    4300054: pCube38
+    4300056: overhead
+    4300058: pCube42
+    4300060: pCube43
+    4300062: pCube64
+    4300064: pCube68
+    4300066: pCube66
+    4300068: pCube70
+    4300070: pCube72
+    4300072: pCube65
+    4300074: pCube64
+    4300076: pCube68
+    4300078: pCube67
+    4300080: pCube66
+    4300082: pCube70
+    4300084: pCube71
+    4300086: pCube69
+    4300088: pCube65
+    4300090: pCube64
+    4300092: pCube68
+    4300094: pCube66
+    4300096: pCube70
+    4300098: pCube72
+    4300100: pCube65
+    4300102: pCube64
+    4300104: pCube68
+    4300106: pCube67
+    4300108: pCube66
+    4300110: pCube70
+    4300112: pCube71
+    4300114: pCube69
+    4300116: pCube65
+    4300118: pCube64
+    4300120: pCube68
+    4300122: pCube66
+    4300124: pCube70
+    4300126: pCube72
+    4300128: pCube65
+    4300130: pCube64
+    4300132: pCube68
+    4300134: pCube67
+    4300136: pCube66
+    4300138: pCube70
+    4300140: pCube71
+    4300142: pCube69
+    4300144: pCube65
+    4300146: pCube64
+    4300148: pCube68
+    4300150: pCube66
+    4300152: pCube70
+    4300154: pCube72
+    4300156: pCube65
+    4300158: pCube64
+    4300160: pCube68
+    4300162: pCube67
+    4300164: pCube66
+    4300166: pCube70
+    4300168: pCube71
+    4300170: pCube69
+    4300172: pCube65
+    4300174: bathroom
+    4300176: pCube74
+    4300178: pCube73
+    4300180: pCube75
+    4300182: pCube76
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

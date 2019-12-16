@@ -7,7 +7,8 @@ public class LevelState : MonoBehaviour
 	////SCENE STATE SAVING
 	public static LevelState Instance;
 
-    
+    public string spawnPositionString;
+    public string completedTiles;
 
 	public int coziness;
 

@@ -5,18 +5,27 @@ using UnityEngine.SceneManagement;
 
 public class SceneSwitcher : MonoBehaviour
 {
+    //scene spawning
     public string sceneString;
+    public string spawnPositionString;
 
-
+    //scene transition
     private Animator anim;
     public float distance;
     public Transform player;
     public bool collideEnter;
 
+    
+
     // Start is called before the first frame update
+
     void Start()
     {
+        
+
         anim = GetComponent<Animator>();
+
+        
     }
 
     // Update is called once per frame
@@ -53,6 +62,7 @@ public class SceneSwitcher : MonoBehaviour
         if (collideEnter == true)
         {
             SceneManager.LoadScene(sceneString, LoadSceneMode.Single);
+            LevelState.Instance.spawnPositionString = spawnPositionString;
         }
         
 
@@ -62,6 +72,8 @@ public class SceneSwitcher : MonoBehaviour
     {
         yield return new WaitForSeconds(1.75f);
         SceneManager.LoadScene(sceneString, LoadSceneMode.Single);
+        LevelState.Instance.spawnPositionString = spawnPositionString;
 
     }
+
 }

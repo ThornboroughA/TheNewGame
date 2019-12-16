@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 2d6bd8461b18847f99835663a1d94c97
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: frame
+    100002: frame1
+    100004: ladder
+    100006: pCube977
+    100008: pCube978
+    100010: pCube979
+    100012: pCube980
+    100014: pCube981
+    100016: pCube982
+    100018: pCube983
+    100020: pCube984
+    100022: pCube985
+    100024: pCube986
+    100026: pCube987
+    100028: pCube988
+    100030: pCube989
+    100032: pCube990
+    100034: pCylinder3
+    100036: pCylinder4
+    100038: pCylinder4 1
+    100040: pCylinder4 2
+    100042: pCylinder4 3
+    100044: pCylinder6
+    100046: pCylinder6 1
+    100048: pCylinder7
+    100050: pCylinder7 1
+    100052: pDisc3
+    100054: //RootNode
+    100056: polySurface29
+    100058: pTorus10
+    100060: pTorus10 1
+    100062: pTorus11
+    100064: pTorus11 1
+    100066: pTorus2
+    100068: pTorus3
+    100070: pTorus4
+    100072: pTorus5
+    100074: pTorus6
+    100076: pTorus7
+    100078: pTorus8
+    100080: sandpit
+    100082: seat
+    100084: seat1
+    100086: slide
+    100088: slide 1
+    100090: swingset
+    100092: swingset_frame
+    100094: turntable
+    100096: turntable_base
+    400000: frame
+    400002: frame1
+    400004: ladder
+    400006: pCube977
+    400008: pCube978
+    400010: pCube979
+    400012: pCube980
+    400014: pCube981
+    400016: pCube982
+    400018: pCube983
+    400020: pCube984
+    400022: pCube985
+    400024: pCube986
+    400026: pCube987
+    400028: pCube988
+    400030: pCube989
+    400032: pCube990
+    400034: pCylinder3
+    400036: pCylinder4
+    400038: pCylinder4 1
+    400040: pCylinder4 2
+    400042: pCylinder4 3
+    400044: pCylinder6
+    400046: pCylinder6 1
+    400048: pCylinder7
+    400050: pCylinder7 1
+    400052: pDisc3
+    400054: //RootNode
+    400056: polySurface29
+    400058: pTorus10
+    400060: pTorus10 1
+    400062: pTorus11
+    400064: pTorus11 1
+    400066: pTorus2
+    400068: pTorus3
+    400070: pTorus4
+    400072: pTorus5
+    400074: pTorus6
+    400076: pTorus7
+    400078: pTorus8
+    400080: sandpit
+    400082: seat
+    400084: seat1
+    400086: slide
+    400088: slide 1
+    400090: swingset
+    400092: swingset_frame
+    400094: turntable
+    400096: turntable_base
+    2100000: cream_plastic
+    2100002: metal_lighter_generic
+    2100004: black
+    2100006: metal_generic
+    2100008: metal_generic_darker
+    2100010: red
+    2100012: brown_wood_dark
+    2100014: lambert1
+    2100016: cream_sand
+    2300000: pCube977
+    2300002: pCube978
+    2300004: pCube979
+    2300006: pCube980
+    2300008: pCube981
+    2300010: pCube982
+    2300012: pCube983
+    2300014: pCube984
+    2300016: pCube985
+    2300018: pCube986
+    2300020: pCube987
+    2300022: pCube988
+    2300024: pCube989
+    2300026: pCube990
+    2300028: pCylinder3
+    2300030: pCylinder4
+    2300032: pCylinder4 1
+    2300034: pCylinder4 2
+    2300036: pCylinder4 3
+    2300038: pCylinder6
+    2300040: pCylinder6 1
+    2300042: pCylinder7
+    2300044: pCylinder7 1
+    2300046: pDisc3
+    2300048: polySurface29
+    2300050: pTorus10
+    2300052: pTorus10 1
+    2300054: pTorus11
+    2300056: pTorus11 1
+    2300058: pTorus2
+    2300060: pTorus3
+    2300062: pTorus4
+    2300064: pTorus5
+    2300066: pTorus6
+    2300068: pTorus7
+    2300070: pTorus8
+    2300072: seat
+    2300074: seat1
+    2300076: slide 1
+    2300078: turntable_base
+    3300000: pCube977
+    3300002: pCube978
+    3300004: pCube979
+    3300006: pCube980
+    3300008: pCube981
+    3300010: pCube982
+    3300012: pCube983
+    3300014: pCube984
+    3300016: pCube985
+    3300018: pCube986
+    3300020: pCube987
+    3300022: pCube988
+    3300024: pCube989
+    3300026: pCube990
+    3300028: pCylinder3
+    3300030: pCylinder4
+    3300032: pCylinder4 1
+    3300034: pCylinder4 2
+    3300036: pCylinder4 3
+    3300038: pCylinder6
+    3300040: pCylinder6 1
+    3300042: pCylinder7
+    3300044: pCylinder7 1
+    3300046: pDisc3
+    3300048: polySurface29
+    3300050: pTorus10
+    3300052: pTorus10 1
+    3300054: pTorus11
+    3300056: pTorus11 1
+    3300058: pTorus2
+    3300060: pTorus3
+    3300062: pTorus4
+    3300064: pTorus5
+    3300066: pTorus6
+    3300068: pTorus7
+    3300070: pTorus8
+    3300072: seat
+    3300074: seat1
+    3300076: slide 1
+    3300078: turntable_base
+    4300000: pTorus11
+    4300002: pTorus10
+    4300004: pTorus11
+    4300006: pTorus10
+    4300008: seat
+    4300010: pCylinder7
+    4300012: pCylinder6
+    4300014: seat1
+    4300016: pCylinder7
+    4300018: pCylinder6
+    4300020: turntable_base
+    4300022: pDisc3
+    4300024: pCylinder3
+    4300026: pTorus5
+    4300028: pCylinder4
+    4300030: pTorus6
+    4300032: pCylinder4
+    4300034: pTorus7
+    4300036: pCylinder4
+    4300038: pTorus8
+    4300040: pCylinder4
+    4300042: slide
+    4300044: pTorus3
+    4300046: pTorus2
+    4300048: pTorus4
+    4300050: pCube979
+    4300052: pCube978
+    4300054: pCube980
+    4300056: pCube981
+    4300058: pCube982
+    4300060: pCube983
+    4300062: pCube984
+    4300064: pCube985
+    4300066: pCube986
+    4300068: pCube990
+    4300070: pCube989
+    4300072: pCube988
+    4300074: pCube987
+    4300076: polySurface29
+    4300078: pCube977
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

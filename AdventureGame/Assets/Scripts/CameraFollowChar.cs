@@ -8,6 +8,8 @@ public class CameraFollowChar : MonoBehaviour
     public bool useTransition;
     private bool transition;
     private bool transition2;
+
+    public bool dontSpawnOnChar;
     public bool followCharacter;
 
     public Vector3 cameraOffset;
@@ -16,8 +18,11 @@ public class CameraFollowChar : MonoBehaviour
 
     private void Start()
     {
-        targetPos = cameraObject1.transform.position + cameraOffset;
-        transform.position = targetPos;
+        if (dontSpawnOnChar == false)
+        {
+            targetPos = cameraObject1.transform.position + cameraOffset;
+            transform.position = targetPos;
+        }
         if (useTransition)
         {
             StartCoroutine(CamTransitionStart());

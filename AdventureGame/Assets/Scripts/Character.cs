@@ -11,6 +11,7 @@ public class Character : MonoBehaviour
 
     //character control
     public float speed = 6.0f;
+    public float rotateSpeed = 80f;
     private float jumpSpeed = 10f;
     private float gravity = 25f;
     private Vector3 moveDirection;
@@ -55,10 +56,7 @@ public class Character : MonoBehaviour
         controller.Move(moveDirection * Time.deltaTime);
 
 
-        //movement
-        moveDirection = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
-        moveDirection = transform.TransformDirection(moveDirection);
-        moveDirection *= speed;
+
 
         //jumping
         if (controller.isGrounded)
@@ -71,6 +69,33 @@ public class Character : MonoBehaviour
         }
 
 
+        ////old movement
+        //if (Input.GetKey(KeyCode.UpArrow) || Input.GetKey("w"))
+        //{
+        //    Forward();
+        //}
+        //else if (Input.GetKey(KeyCode.DownArrow) || Input.GetKey("s"))
+        //{
+        //    Backward();
+        //}
+
+        //if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey("a"))
+        //{
+        //    RotateLeft();
+        //}
+        //else if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey("d"))
+        //{
+        //    RotateRight();
+        //}
+
+
+
+        //movement
+        moveDirection = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
+
+        moveDirection = transform.TransformDirection(moveDirection);
+        moveDirection *= speed;
+
         controller.Move(moveDirection * Time.deltaTime);
 
         //rotation
@@ -78,13 +103,35 @@ public class Character : MonoBehaviour
 
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
 
-        if (Physics.Raycast(ray, out hit, 100))
+        if (Physics.Raycast(ray, out hit, 40)) //&& (controller.isGrounded))
         {
             transform.LookAt(new Vector3(hit.point.x, transform.position.y, hit.point.z));
         }
     }
 
+    ////old movement
+    //void Forward()
+    //{
+    //    transform.Translate(Vector3.forward * Time.deltaTime * speed);
+    //}
+    //void Backward()
+    //{
+    //    transform.Translate(Vector3.forward * Time.deltaTime * -speed);
+    //}
+    //void RotateLeft()
+    //{
+    //    transform.Rotate(Vector3.up * Time.deltaTime * -rotateSpeed);
+    //}
+    //void RotateRight()
+    //{
+    //    transform.Rotate(Vector3.up * Time.deltaTime * rotateSpeed);
+    //}
 }
+
+
+
+
+
 
 //using System.Collections;
 //using System.Collections.Generic;

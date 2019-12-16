@@ -17,12 +17,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/old/Egyptmart.unity
     guid: 2688fafe331db4dc896d46f121349569
-  - enabled: 1
-    path: Assets/Scenes/Vignettes.unity
-    guid: ec322cb06de8648ab8666fb61079056b
   - enabled: 0
     path: Assets/Scenes/MainScene_test.unity
     guid: 7039584de13414255be034107a1301f6
+  - enabled: 1
+    path: Assets/Scenes/Vignettes.unity
+    guid: ec322cb06de8648ab8666fb61079056b
   - enabled: 1
     path: Assets/Scenes/MainScene.unity
     guid: fb86ec455f72d40a89d86eed69db6b41
